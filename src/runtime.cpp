@@ -45,7 +45,7 @@ ExecutionResult Runtime::execute(const std::string& source) const {
     luaL_openlibs(state);
 
     lua_pushlightuserdata(state, &captured);
-    lua_pushcclosure(state, capturePrint, 1);
+    lua_pushcclosure(state, capturePrint, "print", 1);
     lua_setglobal(state, "print");
 
     try {
