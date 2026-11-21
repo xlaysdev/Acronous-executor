@@ -105,7 +105,7 @@ jobs:
             -analysisTimeoutPerFile 900 \
             -max-cpu 2 \
             -scriptPath "$GITHUB_WORKSPACE/scripts" \
-            -postScript ExportDecompiled.java "$GITHUB_WORKSPACE/$OUTPUT_DIR" \\
+            -postScript ExportDecompiled.java "$GITHUB_WORKSPACE/$OUTPUT_DIR" \
             -postScript ExportMetadata.java "$GITHUB_WORKSPACE/$OUTPUT_DIR"
           {
             echo "Input: $DLL_PATH"
