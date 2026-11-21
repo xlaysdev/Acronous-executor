@@ -1,0 +1,15 @@
+/* FUN_1801051c0 @ 1801051c0 */
+
+void FUN_1801051c0(char param_1,longlong *param_2,undefined8 param_3,undefined8 param_4)
+
+{
+  if (param_1 == '\x02') {
+    (**(code **)(*param_2 + 0x20))
+              (param_2[3],param_2[1],param_2[2],param_4,param_2,0xfffffffffffffffe);
+    thunk_FUN_1801d3330(param_2,0x20,8);
+    return;
+  }
+  return;
+}
+
+

@@ -1,6 +1,6 @@
 /* Ghidra decompiler output. Static analysis only. */
 /* Program: wearedevs.dll */
-
+/* Per-function files are in functions/; named exports are in exports/. */
 
 /* ====================================================== */
 /* FUN_180001000 @ 180001000 */

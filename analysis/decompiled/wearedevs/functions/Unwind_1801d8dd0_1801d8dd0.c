@@ -1,0 +1,12 @@
+/* Unwind@1801d8dd0 @ 1801d8dd0 */
+
+void Unwind_1801d8dd0(undefined8 param_1,longlong param_2)
+
+{
+  if (*(longlong *)(param_2 + 0x88) != 0) {
+    thunk_FUN_1801d3330(*(undefined8 *)(param_2 + 0x80),*(longlong *)(param_2 + 0x88) * 2,2);
+  }
+  return;
+}
+
+

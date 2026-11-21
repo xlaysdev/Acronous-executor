@@ -1,0 +1,5 @@
+Program: wearedevs.dll
+Functions encountered: 9815
+Successfully decompiled: 9753
+Failed: 62
+Named exports written: 5

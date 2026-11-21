@@ -1,0 +1,12 @@
+/* Unwind@1800c4330 @ 1800c4330 */
+
+void Unwind_1800c4330(undefined8 param_1,longlong param_2)
+
+{
+  *(undefined1 *)(param_2 + 0xff) = 0;
+  FUN_180026670(param_2 + 0x40);
+  *(undefined1 *)(param_2 + 0xff) = 0;
+  return;
+}
+
+

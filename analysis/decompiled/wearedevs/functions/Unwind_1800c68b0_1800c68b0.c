@@ -1,0 +1,10 @@
+/* Unwind@1800c68b0 @ 1800c68b0 */
+
+void Unwind_1800c68b0(undefined8 param_1,longlong param_2)
+
+{
+  FUN_1800ba9b0(*(longlong *)(param_2 + 0x30) + 0x18);
+  return;
+}
+
+

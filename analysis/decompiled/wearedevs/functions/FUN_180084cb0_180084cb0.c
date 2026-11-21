@@ -1,0 +1,58 @@
+/* FUN_180084cb0 @ 180084cb0 */
+
+undefined1 * FUN_180084cb0(undefined1 *param_1,int *param_2,longlong param_3,undefined8 param_4)
+
+{
+  ulonglong uVar1;
+  ulonglong uVar2;
+  undefined8 uVar3;
+  undefined8 *puVar4;
+  undefined8 local_180;
+  undefined1 local_178 [296];
+  ulonglong local_50;
+  undefined8 local_48;
+  
+  local_48 = 0xfffffffffffffffe;
+  if (*param_2 != 1) {
+    *param_1 = 9;
+    return param_1;
+  }
+  uVar1 = *(ulonglong *)(param_2 + 2);
+  if (uVar1 < *(ulonglong *)(param_3 + 0x10)) {
+    uVar2 = *(ulonglong *)(*(longlong *)(param_3 + 8) + uVar1 * 0x138);
+    if (uVar2 != 2) {
+      local_50 = *(ulonglong *)(param_2 + 4);
+      puVar4 = (undefined8 *)(*(longlong *)(param_3 + 8) + uVar1 * 0x138);
+      uVar3 = *(undefined8 *)(param_3 + 0x20);
+      memcpy(&local_180,puVar4 + 1,0x130);
+      *puVar4 = 2;
+      puVar4[1] = uVar3;
+      *(longlong *)(param_3 + 0x18) = *(longlong *)(param_3 + 0x18) + -1;
+      *(ulonglong *)(param_3 + 0x20) = uVar1;
+      if (uVar1 == local_50) {
+        if (uVar2 != 0) {
+                    /* WARNING: Subroutine does not return */
+          FUN_180201ec0("assertion failed: slot.next.is_none()",0x25,
+                        &PTR_s_C__Users_burne__cargo_registry_s_18020d9a0,param_4,uVar2);
+        }
+        param_2[0] = 0;
+        param_2[1] = 0;
+      }
+      else {
+        if ((uVar2 & 1) == 0) {
+                    /* WARNING: Subroutine does not return */
+          FUN_180201ba0(&PTR_s_C__Users_burne__cargo_registry_s_18020d960);
+        }
+        param_2[0] = 1;
+        param_2[1] = 0;
+        *(undefined8 *)(param_2 + 2) = local_180;
+      }
+      memcpy(param_1,local_178,0x128);
+      return param_1;
+    }
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_180201b60("invalid key",0xb,&PTR_s_C__Users_burne__cargo_registry_s_18020d948);
+}
+
+
