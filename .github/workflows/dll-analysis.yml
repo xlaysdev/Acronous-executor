@@ -1,0 +1,94 @@
+name: DLL static analysis
+
+on:
+  push:
+    paths:
+      - "analysis/input/**/*.dll"
+      - "analysis/input/*.dll"
+      - ".github/workflows/dll-analysis.yml"
+      - "scripts/ExportDecompiled.java"
+  workflow_dispatch:
+    inputs:
+      dll_path:
+        description: "Repository path to the DLL"
+        required: true
+        default: "analysis/input/wearedevs_exploit_api.dll"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dll-analysis-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Select input DLL
+        id: input
+        shell: bash
+        env:
+          REQUESTED_DLL: ${{ inputs.dll_path }}
+        run: |
+          if [ "${GITHUB_EVENT_NAME}" = "workflow_dispatch" ]; then
+            DLL="$REQUESTED_DLL"
+          else
+            DLL="$(find analysis/input -type f -iname '*.dll' -print -quit 2>/dev/null || true)"
+          fi
+          if [ -z "$DLL" ] || [ ! -f "$DLL" ]; then
+            echo "No DLL found. Upload one under analysis/input/." >&2
+            exit 1
+          fi
+          echo "dll=$DLL" >> "$GITHUB_OUTPUT"
+          mkdir -p reports
+
+      - name: Set up Java for Ghidra
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "25"
+
+      - name: Download and verify official Ghidra
+        shell: bash
+        run: |
+          curl -fL --retry 3 \
+            "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip" \
+            -o /tmp/ghidra.zip
+          echo "2c2cd776db3c1f6a097ba418922378ac3649cadd5e844a6f5f088ae628a7be67  /tmp/ghidra.zip" | sha256sum -c -
+          unzip -q /tmp/ghidra.zip -d /tmp
+          echo "GHIDRA_HOME=/tmp/ghidra_12.2_PUBLIC" >> "$GITHUB_ENV"
+
+      - name: Run Ghidra headless analysis and decompiler
+        shell: bash
+        env:
+          DLL_PATH: ${{ steps.input.outputs.dll }}
+        run: |
+          mkdir -p reports ghidra-project
+          "$GHIDRA_HOME/support/analyzeHeadless" \
+            "$GITHUB_WORKSPACE/ghidra-project" AcronousDLL \
+            -import "$GITHUB_WORKSPACE/$DLL_PATH" \
+            -analysisTimeoutPerFile 900 \
+            -max-cpu 2 \
+            -scriptPath "$GITHUB_WORKSPACE/scripts" \
+            -postScript ExportDecompiled.java "$GITHUB_WORKSPACE/reports"
+          {
+            echo "Input: $DLL_PATH"
+            echo "SHA-256:"
+            sha256sum "$DLL_PATH"
+            echo
+            echo "File identification:"
+            file "$DLL_PATH"
+          } > reports/input-info.txt
+
+      - name: Upload analysis report
+        uses: actions/upload-artifact@v4
+        with:
+          name: acronous-dll-analysis
+          path: reports/
+          if-no-files-found: error
+          retention-days: 14
