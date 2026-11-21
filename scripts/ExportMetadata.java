@@ -34,10 +34,12 @@ public class ExportMetadata extends ghidra.app.script.GhidraScript {
         }
 
         try (BufferedWriter out = new BufferedWriter(new FileWriter(new File(root, "metadata-imports.txt")))) {
-            Iterator<ExternalLocation> it = currentProgram.getExternalManager().getExternalLocations();
-            while (it.hasNext()) {
-                ExternalLocation loc = it.next();
-                line(out, loc.getAddress() + "\t" + loc.getLibraryName() + "\t" + loc.getLabel());
+            for (String library : currentProgram.getExternalManager().getExternalLibraryNames()) {
+                Iterator<ExternalLocation> it = currentProgram.getExternalManager().getExternalLocations(library);
+                while (it.hasNext()) {
+                    ExternalLocation loc = it.next();
+                    line(out, loc.getAddress() + "\t" + loc.getLibraryName() + "\t" + loc.getLabel());
+                }
             }
         }
 
