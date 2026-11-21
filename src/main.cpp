@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
     if (argc == 2) {
         std::ifstream file(argv[1], std::ios::binary);
         if (!file) {
-            std::cerr << "Could not open script: " << argv[1] << '\\n';
+            std::cerr << "Could not open script: " << argv[1] << '\n';
             return 2;
         }
         source.assign(std::istreambuf_iterator<char>(file), std::istreambuf_iterator<char>());
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 
     std::cout << result.output;
     if (!result.success) {
-        std::cerr << "Execution failed: " << result.error << '\\n';
+        std::cerr << "Execution failed: " << result.error << '\n';
         return 1;
     }
 
