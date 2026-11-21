@@ -1,0 +1,2515 @@
+180202730	string									
+180202740	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\lib.rs
+1802027c0	string	An important asset is downloading. Please wait...\n
+1802027f2	string	src\wrdapi.rs
+180202818	string	ErrorAn important asset failed to download... Check with your firewall or anti-virus.https://cdn.wearedevs.net/software/jjsploit/tauri.json
+1802028c0	string	Failed to connect to WeAreDevs server to check for updates. Please make sure your firewall isn't blocking it. The fallback information will be used, but it may not be up to date.https://raw.githubusercontent.com/wcrddn/wcrddn.github.io/main/tauri.jsonIt seems like your anti-virus or firewall is blocking our connection to the update check server. Please correct this in order for JJSploit to work properly.JJSploit failed to parse server information and may not work correctly.dependenciesFailed to retrieve server message
+180202b38	string	Failed to do cleanup on old files\n
+180202b94	string	An error occured while downloading a dependency. Update skipping. Please investigate your permissions, firewall, or antivirus. 
+180202c30	string	libcrypto-3-x64.dllxxhash.dlllibssl-3-x64.dllzstd.dllWRD.dllIt appears your anti-virus has deleted a critical dependency. Please disable your protection then restart the exploit so it can auto redownload them.
+180202d38	string	An error occured while deleting the old version of a dependency. Update skipping. Please investigate your permissions, firewall, or antivirus. Completely failed to delete old version of a dependency.JJSploit is trying to replace a dependency with an update, but there seems to be a file permissions issue. Please investigate your permissions, firewall, or antivirus. 
+180202ef0	string	a Display implementation returned an error unexpectedlyC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\string.rs
+180202fb0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+1802030c8	string	called `Result::unwrap()` on an `Err` value
+180203138	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\async_impl\response.rs
+1802031c0	string	charsetutf-8
+180203200	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\lib.rs
+18020334c	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\lib.rs
+1802033c8	string	An important asset is downloading. Please wait...\n
+1802033fa	string	src\wrdapi.rs
+180203420	string	ErrorAn important asset failed to download... Check with your firewall or anti-virus.https://cdn.wearedevs.net/software/jjsploit/tauri.json
+1802034c8	string	Failed to connect to WeAreDevs server to check for updates. Please make sure your firewall isn't blocking it. The fallback information will be used, but it may not be up to date.https://raw.githubusercontent.com/wcrddn/wcrddn.github.io/main/tauri.jsonIt seems like your anti-virus or firewall is blocking our connection to the update check server. Please correct this in order for JJSploit to work properly.JJSploit failed to parse server information and may not work correctly.dependenciesFailed to retrieve server message
+180203740	string	Failed to do cleanup on old files\n
+18020379c	string	An error occured while downloading a dependency. Update skipping. Please investigate your permissions, firewall, or antivirus. 
+180203838	string	libcrypto-3-x64.dllxxhash.dlllibssl-3-x64.dllzstd.dllWRD.dllIt appears your anti-virus has deleted a critical dependency. Please disable your protection then restart the exploit so it can auto redownload them.
+180203940	string	An error occured while deleting the old version of a dependency. Update skipping. Please investigate your permissions, firewall, or antivirus. Completely failed to delete old version of a dependency.JJSploit is trying to replace a dependency with an update, but there seems to be a file permissions issue. Please investigate your permissions, firewall, or antivirus. 
+180203af8	string	a Display implementation returned an error unexpectedlyC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\string.rs
+180203bb8	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+180203cd0	string	called `Result::unwrap()` on an `Err` value
+180203d40	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\async_impl\response.rs
+180203dc8	string	charsetutf-8
+180203e08	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\lib.rs
+180203f54	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\lib.rs
+180203fd0	string	An important asset is downloading. Please wait...\n
+180204002	string	src\wrdapi.rs
+180204028	string	ErrorAn important asset failed to download... Check with your firewall or anti-virus.https://cdn.wearedevs.net/software/jjsploit/tauri.json
+1802040d0	string	Failed to connect to WeAreDevs server to check for updates. Please make sure your firewall isn't blocking it. The fallback information will be used, but it may not be up to date.https://raw.githubusercontent.com/wcrddn/wcrddn.github.io/main/tauri.jsonIt seems like your anti-virus or firewall is blocking our connection to the update check server. Please correct this in order for JJSploit to work properly.JJSploit failed to parse server information and may not work correctly.dependenciesFailed to retrieve server message
+180204348	string	Failed to do cleanup on old files\n
+1802043a4	string	An error occured while downloading a dependency. Update skipping. Please investigate your permissions, firewall, or antivirus. 
+180204440	string	libcrypto-3-x64.dllxxhash.dlllibssl-3-x64.dllzstd.dllWRD.dllIt appears your anti-virus has deleted a critical dependency. Please disable your protection then restart the exploit so it can auto redownload them.
+180204548	string	An error occured while deleting the old version of a dependency. Update skipping. Please investigate your permissions, firewall, or antivirus. Completely failed to delete old version of a dependency.JJSploit is trying to replace a dependency with an update, but there seems to be a file permissions issue. Please investigate your permissions, firewall, or antivirus. 
+180204700	string	a Display implementation returned an error unexpectedlyC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\string.rs
+1802047c0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+1802048d8	string	called `Result::unwrap()` on an `Err` value
+180204948	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\async_impl\response.rs
+1802049d0	string	charsetutf-8
+180204a10	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\lib.rs
+180204b70	string	uespemosarenegyl
+180204b80	string	modnarodsetybdet
+180204b90	string	size overflows MAX_SIZE
+180204ba7	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+180204c20	string	expected a header name, but got None
+180204fca	string	Your anti-virus 
+180204fda	string	is preventing JJ
+180204fea	string	Sploit from load
+180204ffa	string	ing an important
+18020500a	string	 dependency. Ple
+18020501a	string	ase disable it a
+18020502a	string	nd restart JJSploit.
+18020503e	string	Windows Smart App Control (or a Group Policy/WDAC rule) is blocking WRD.dll from loading because it is unsigned. Go to Windows Security > App & browser control > Smart App Control settings and turn Smart App Control Off, then restart JJSploit.
+180205168	string	a Display implementation returned an error unexpectedly
+18020519f	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\string.rs
+180205228	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+180205360	string	Error
+180205510	string	NulError
+180205518	string	
+180205538	string	InteriorNul
+180205543	string	position
+18020554b	string	NotNulTerminated
+1802055e0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\thread\local.rs
+1802057a8	string	WeAreDevs API wrapper loaded!\n
+1802057c6	string	RobloxPlayerBeta.exe
+1802057da	string	Robloxsrc\game.rs
+180205840	string	called `Result::unwrap()` on an `Err` value
+1802058d0	string	NulErrorsrc\lib.rs
+180205958	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\collections\btree\map\entry.rs
+1802059f8	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\collections\btree\node.rs
+180205a79	string	assertion failed: edge.height == self.height - 1
+180205b50	string	assertion failed: edge.height == self.node.height - 1
+180205ba0	string	fatal r
+180205ba7	string	untime e
+180205baf	string	r
+180205bb0	string	ror: thread local panicked on drop, aborting\n
+180205bdd	string	src\wrdapi.rs
+180205c77	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+180205ce6	string	failed to write whole buffer
+180205d68	string	a Display implementation returned an error unexpectedly
+180205d9f	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\string.rs
+180205e48	string	Error
+180205e78	string	mid > len
+180205e81	string	attempt to join into collection with len > usize::MAXC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\str.rs
+180205f82	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180205ff8	string	`len` greater than remaining
+180206014	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-util-0.1.5\src\util.rs
+180206098	string	Out of bounds access
+1802060dc	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\collections\btree\navigate.rs
+180206228	string	Cannot start a runtime from within a runtime. This happens because a function (like `block_on`) attempted to block the current thread while the thread is being used to drive asynchronous tasks.
+1802062e9	string	failed to park thread
+1802062fe	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\multi_thread\mod.rs
+180206398	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+180206430	string	Failed to `Enter::block_on`
+180206478	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-util-0.1.5\src\combinators\collect.rs
+180206508	string	polled after complete
+180206538	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\multi_thread\mod.rs
+1802065fa	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180206670	string	`len` greater than remainingC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-util-0.1.5\src\util.rs
+180206720	string	queue not empty
+18020672f	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\multi_thread\queue.rs
+1802067e0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+180206890	string	core missing
+180206918	string	a spawned task panicked and the runtime is configured to shut down on unhandled panic
+1802069e6	string	Executefailed to write whole buffer
+180206a28	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+180206ada	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180206b50	string	`len` greater than remainingC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\buf\take.rs
+180206be8	string	assertion failed: cnt <= self.limit
+180206c40	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-util-0.1.5\src\util.rs
+180206cc0	string	Out of bounds access
+180206da0	string	charset
+180206da7	string	utf-8C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\lib.rs
+180206ebc	string	assertion failed: slot.is_none()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\oneshot.rs
+180206fa0	string	internal error: entered unreachable code: Frame::map closure will only be called on DATA frames.C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs
+180207140	string	Reset
+180207168	string	GoAway
+180207190	string	Reason
+1802071e0	string	IoArc counter overflow
+18020720a	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\sync.rs
+180207388	string	internal error: entered unreachable code: unexpected stageC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1802074a8	string	Priority
+1802074b0	string	stream_iddependency
+180207508	string	Pingackpayload
+180207538	string	WindowUpdate
+180207544	string	size_incrementerror_code
+18020755c	string	NotFound
+180207564	string	PermissionDenied
+180207574	string	ConnectionRefused
+180207585	string	ConnectionReset
+180207594	string	HostUnreachable
+1802075a3	string	NetworkUnreachable
+1802075b5	string	ConnectionAborted
+1802075c6	string	NotConnected
+1802075d2	string	AddrInUse
+1802075db	string	AddrNotAvailable
+1802075eb	string	NetworkDown
+1802075f6	string	BrokenPipe
+180207600	string	AlreadyExists
+18020760d	string	WouldBlock
+180207617	string	NotADirectory
+180207624	string	IsADirectory
+180207630	string	DirectoryNotEmpty
+180207641	string	ReadOnlyFilesystem
+180207653	string	FilesystemLoop
+180207661	string	StaleNetworkFileHandle
+180207677	string	InvalidInput
+180207683	string	InvalidData
+18020768e	string	TimedOut
+180207696	string	WriteZero
+18020769f	string	StorageFull
+1802076aa	string	NotSeekable
+1802076b5	string	QuotaExceeded
+1802076c2	string	FileTooLarge
+1802076ce	string	ResourceBusy
+1802076da	string	ExecutableFileBusy
+1802076ec	string	Deadlock
+1802076f4	string	CrossesDevices
+180207702	string	TooManyLinks
+18020770e	string	InvalidFilename
+18020771d	string	ArgumentListTooLong
+180207730	string	Interrupted
+18020773b	string	Unsupported
+180207746	string	UnexpectedEof
+180207753	string	OutOfMemory
+18020775e	string	InProgress
+180207768	string	Other
+18020776d	string	UncategorizedLibraryRemote
+180207787	string	StreamId
+1802077b0	string	Elapsed
+1802077e8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\async_impl\body.rs
+180207d30	string	        
+180207dc0	string	internal error: entered unreachable code: http2 cannot upgradeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\client\conn\http2.rs
+180207ea0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\async_impl\client.rs
+180207f28	string	assertion failed: (*tail).value.is_none()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\queue.rs
+180207fd8	string	assertion failed: (*next).value.is_some()
+180208040	string	size overflows MAX_SIZE
+180208057	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+1802080d0	string	Previous URL must be valid
+1802080ea	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\redirect.rs
+180208198	string	a Display implementation returned an error unexpectedlyC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\string.rs
+180208380	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\ops\function.rs
+180208450	string	Error
+180208490	string	EmptyHostIdnaErrorInvalidPortInvalidIpv4AddressInvalidIpv6AddressInvalidDomainCharacterRelativeUrlWithoutBaseRelativeUrlWithCannotBeABaseBaseSetHostOnCannotBeABaseUrlOverflow
+18020853e	string	Custom
+180208544	string	Policy
+180208570	string	None
+180208574	string	Limit
+1802085a0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.5.8\src\lib.rs
+180208618	string	TooManyRedirects
+180208628	string	too many redirects
+180208660	string	ReasonPhrase
+180208838	string	valid request parts
+1802088a1	string	should be valid Url
+1802088b4	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\proxy.rs
+180208988	string	cookie2
+180208a28	string	Pending error polled more than once
+180208b30	string	\r\nSM\r\n\r\n
+180208b75	string	uri host is valid header value
+180208b93	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs
+180208c20	string	authority implies host
+180208c50	string	size overflows MAX_SIZE
+180208c67	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+180208ce0	string	expected a header name, but got None
+180208d50	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\thread\local.rs
+180209200	string	overflow
+180209208	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\rt\io.rs
+1802092c7	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h1\conn.rs
+180209478	string	close
+180209498	string	0\r\n\r\n
+18020949d	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h1\decode.rs
+180209505	string	Invalid chunk size line: missing size digit
+180209530	string	invalid chunk size: overflow
+18020954c	string	unexpected EOF during chunk size line
+180209571	string	chunk trailers bytes over limit
+180209590	string	Invalid chunk end LF
+1802095a4	string	Invalid chunk body CR
+1802095b9	string	Invalid chunk body LF
+1802095ce	string	Invalid chunk size LF
+1802095e3	string	trailers_buf is None
+180209690	string	chunk trailers count overflow
+1802096ad	string	Invalid trailer end LF
+1802096c3	string	Invalid chunk size line: Invalid SizeInit
+180209710	string	Continue
+180209718	string	BodyKeepAliveClosedC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.5.8\src\lib.rs
+1802097d0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\io\read_buf.rs
+180209880	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\async_impl\request.rs
+1802098ee	string	has_authority means set_username shouldn't fail
+180209938	string	has_authority means set_password shouldn't fail
+180209980	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\rt\tokio.rs
+180209ac0	string	assertion failed: self.has_capacity()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs
+180209bb8	string	chunk not fully encoded
+180209be8	string	not implemented
+180209c10	string	encoded settings
+180209c20	string	
+180209cc8	string	write returned zero, but non-zero bytes remaining
+180209cf9	string	flushing buffer
+180209d08	string	codec closed
+180209d14	string	mutex poisoned
+180209d22	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs
+180209da0	string	recv DATA
+180209dd0	string	recv HEADERS
+180209e00	string	recv PRIORITY
+180209e30	string	recv PUSH_PROMISE
+180209e68	string	recv SETTINGS
+180209e98	string	recv PING
+180209ec8	string	received unexpected shutdown ping
+180209f08	string	recv GOAWAY
+180209f38	string	recv WINDOW_UPDATE
+180209f70	string	recv RST_STREAM
+180209fc8	string	Connection::poll; connection error
+18020a010	string	    -> already going awaystream error
+18020a098	string	stream resetConnection::poll; IO error
+18020a0e0	string	Client
+18020a138	string	connection closing after flush
+18020a156	string	dropping
+18020a180	string	buffer_pending
+18020a18e	string	writing
+18020a195	string	invalid frame
+18020a1a2	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs
+18020a228	string	reclaimed
+18020a258	string	wasn't expecting a frame to reclaim
+18020a298	string	not reclaiming frame for cancelled stream
+18020a308	string	removing dangling stream from pending_send
+18020a332	string	data frame
+18020a360	string	sending data frame
+18020a372	string	stream capacity is 0
+18020a3f8	string	assertion failed: buf.len() <= u32::MAX as usizeC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sys\io\io_slice\windows.rs
+18020a5ef	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+18020a6b0	string	Closing
+18020a6b7	string	Closed
+18020a6bd	string	`len` greater than remainingC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\buf\take.rs
+18020a770	string	assertion failed: cnt <= self.limit
+18020a7d0	string	WindowC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h1\encode.rs
+18020a858	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\buf\chain.rs
+18020a8d8	string	poll
+18020a8dc	string	received
+18020aac0	string	ConnectFailed
+18020aaf0	string	IoMissingHostProxyAuthRequiredProxyHeadersTooLongTunnelUnexpectedEofTunnelUnsuccessful
+18020ad28	string	Error
+18020ad2d	string	kindBuilderRequestRedirect
+18020ad88	string	StatusBodyDecodeUpgrade
+18020ad9f	string	reqwest::Error
+18020adf0	string	url
+18020adf3	string	source
+18020b508	string	assertion failed: buf.len() <= u32::MAX as usizeC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sys\io\io_slice\windows.rs
+18020b5d0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h1\io.rs
+18020b6a0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\rt\io.rs
+18020c284	string	EmptyHostIdnaErrorInvalidPortInvalidIpv4AddressInvalidIpv6AddressInvalidDomainCharacterRelativeUrlWithoutBaseRelativeUrlWithCannotBeABaseBaseSetHostOnCannotBeABaseUrlOverflow
+18020c332	string	TimedOut
+18020c33a	string	BadScheme
+18020c343	string	operation timed out
+18020c356	string	URL scheme is not allowed
+18020c3c1	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+18020c458	string	NotEof
+18020c45e	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes_mut.rs
+18020c4d8	string	PoolDisabledCheckoutNoLongerWantedCheckedOutClosedValue
+18020c50f	string	IncompleteBody
+18020c51d	string	Parsed Url is not a valid UriC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\common\buf.rs
+18020c5b8	string	Out of bounds access
+18020c770	string	not dropped
+18020c77b	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs
+18020c808	string	Future polled twiceC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h2\client.rs
+18020c8e0	string	fatal runtime error: thread local panicked on drop, aborting\n
+18020ca89	string	assertion failed: Pin::new(&mut rx).poll(cx).is_pending()
+18020cb18	string	pool closed, canceling idle intervalidle interval checking for expiredinterval assumes timeout
+18020cbb0	string	value already sent
+18020cc56	string	, dropping connection
+18020ce8a	string	Out of bounds accessC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\collections\vec_deque\mod.rs
+18020cfdb	string	\t
+18020cfdd	string	\r
+18020cfdf	string	\n
+18020cfe1	string	None
+18020d153	string	base64 is always valid HeaderValue
+18020d175	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\util.rs
+18020d218	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\dns\gai.rs
+18020d348	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\io\poll_evented.rs
+18020d698	string	max_retries_per_request hit
+18020d6b3	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\retry.rs
+18020d7eb	string	invalid WINDOW_UPDATE frame
+18020d806	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs
+18020d888	string	unexpected flow control state
+18020d8c0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\buffer.rs
+18020d978	string	assertion failed: slot.next.is_none()
+18020d9d0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs
+18020dec6	string	), ignoring RST_STREAM
+18020dedd	string	connection error PROTOCOL_ERROR -- recv_reset: invalid stream ID 0;
+18020df20	string	assertion failed: stream.state.is_closed()
+18020dfcf	string	, sending STREAM_CLOSED
+18020e096	string	), ignoring HEADERS
+18020e140	string	connection error PROTOCOL_ERROR -- recv_push_promise: initiating stream is in an invalid state;
+18020e19f	string	connection error PROTOCOL_ERROR -- recv_push_promise: initiating stream is not opened;
+18020e22c	string	), ignoring PUSH_PROMISE
+18020e3a7	string	, sending STREAM_CLOSED
+18020e3bf	string	assertion failed: sz <= super::MAX_WINDOW_SIZE as usize
+18020e42c	string	), ignoring DATA
+18020e524	string	invalid ping frame
+18020e536	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\ping_pong.rs
+18020e5d0	string	invalid pong frame
+18020e678	string	tower_http::follow_redirect::RequestUri
+18020e700	string	called `Result::unwrap()` on an `Err` value
+18020e750	string	assertion failed: buf.len() <= u32::MAX as usizeC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sys\io\io_slice\windows.rs
+18020e818	string	send stream capacity unexpectedly closed
+18020e840	string	
+18020e880	string	Reset
+18020e885	string	stream_id
+18020e88e	string	error_codeInactiveStreamIdUnexpectedFrameTypePayloadTooBigRejectedReleaseCapacityTooBigOverflowedStreamIdMalformedHeadersMissingUriSchemeAndAuthorityPollResetAfterSendResponseSendPingWhilePendingSendSettingsWhilePendingPeerDisabledServerPushInvalidInformationalStatusCode
+18020e9c0	string	StreamId
+18020e9c8	string	usize overflow when calculating b64 lengthC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base64-0.22.1\src\encode.rs
+18020eb6c	string	retrying requires cloned requestC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-0.5.3\src\retry\future.rs
+18020ec08	string	assertion failed: dst.remaining_mut() >= len
+18020ec34	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\data.rs
+18020ecb0	string	assertion failed: !stream_id.is_zero()
+18020ecf0	string	internal error: entered unreachable codeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slab-0.4.12\src\lib.rs
+18020ed73	string	invalid key
+18020ed98	string	JoinHandle polled after completionC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+18020ee68	string	stream_id
+18020ee98	string	flags
+18020eec0	string	pad_len
+18020eee8	string	StreamId
+18020eef0	string	`Ready` polled after completionC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\future\ready.rs
+18020efa0	string	send stream capacity unexpectedly closed
+18020efc8	string	checked is_some aboveC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h2\mod.rs
+18020f0bc	string	already called
+18020f0ca	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\service\oneshot.rs
+18020f150	string	polled after complete
+18020f180	string	internal error: entered unreachable codeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\future\map.rs
+18020f238	string	Map must not be polled after it returned `Poll::Ready`
+18020f3b7	string	' was closed and send queue was flushed)
+18020f3ff	string	 is already reset)
+18020f4a2	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\vec\mod.rs
+18020f530	string	connection was not readyC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\client\conn\http1.rs
+18020f610	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\client\conn\http2.rs
+18020f6b0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\sync\mpsc\list.rs
+18020f770	string	Reset
+18020f775	string	stream_id
+18020f77e	string	error_codeUserLibraryRemote
+18020f799	string	None
+18020f828	string	StreamId
+18020f830	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\slice.rs
+18020f8b8	string	Ready polled after completionC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\ready.rs
+18020f960	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\common\lazy.rs
+18020f9e8	string	internal error: entered unreachable code: lazy state wrong
+18020fa40	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-0.5.3\src\util\oneshot.rs
+18020fd50	string	reqwest::tls::TlsInfo
+18020fd65	string	hyper::upgrade::OnUpgrade
+18020fd7e	string	tower_http::follow_redirect::RequestUri
+18020fda5	string	h2::ext::Protocol
+18020ffd0	string	`Ready` polled after completionC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\future\ready.rs
+1802100d8	string	upgradeable client connection polled after upgradeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\client\conn\http1.rs
+180210190	string	upgradeable client connection missing after upgrade
+1802101e0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\mod.rs
+180210280	string	requested buffer size too large
+180210320	string	called `Result::unwrap()` on an `Err` value
+180210390	string	Ping
+180210394	string	ack
+180210397	string	payload
+18021039e	string	connection error
+1802103ae	string	internal error: entered unreachable codeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\client\dispatch.rs
+18021043e	string	envelope not dropped
+180210488	string	callback sender not dropped before send
+1802104f8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\sync\oneshot.rs
+1802105c0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\util\linked_list.rs
+180210648	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\util\sharded_list.rs
+180210710	string	Priority
+180210718	string	stream_id
+180210721	string	dependency
+180210750	string	StreamId
+180210758	string	
+1802107da	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\retry.rs
+180210868	string	connection closed
+180210879	string	called after complete
+1802108a8	string	cannot clone `Sender` -- too many outstanding senders
+180210910	string	polled after complete
+180210950	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\rt\io.rs
+1802109c8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs
+180210a58	string	http2 handshake complete, spawning background dispatcher task
+180210ba0	string	error channel closed, returning the vague ChannelClosed error
+180210bdd	string	not droppedC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs
+180210c70	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs
+180210d90	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-util-0.7.19\src\util\poll_buf.rs
+180210dfb	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\io\read_buf.rs
+180210e90	string	assertion failed: DEFAULT_MAX_FRAME_SIZE as usize <= val && val <= MAX_MAX_FRAME_SIZE as usizeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs
+180210f70	string	invalid GOAWAY frame
+180210f84	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\go_away.rs
+180211000	string	invalid RST_STREAM frame
+180211018	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs
+180211098	string	invalid WINDOW_UPDATE frame
+1802110d0	string	unexpected flow control state
+180211108	string	assertion failed: self.remote.is_none()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\settings.rs
+1802111d3	string	connection error PROTOCOL_ERROR -- received unexpected settings ack;
+180211240	string	invalid settings frame
+180211270	string	ACK sent; applying settings
+18021128b	string	assertion failed: val <= frame::MAX_MAX_FRAME_SIZE as usizeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs
+180211389	string	binding client connectionPRI * HTTP/2.0\r\n\r\nSM\r\n\r\n
+1802113ba	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\client.rs
+180211430	string	client connection bound
+180211460	string	invalid SETTINGS frame
+1802114d8	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+180211578	string	a formatting trait implementation returned an error when the underlying stream did not
+180211618	string	failed to write whole buffer
+1802116e8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h2\client.rs
+180211768	string	conn.ping_pong
+180211790	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\client\conn\http1.rs
+180211830	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\client\conn\http2.rs
+1802118d0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\net\tcp\socket.rs
+180211950	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\net\tcp\stream.rs
+1802119d0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\mod.rs
+180211a58	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\multi_thread\handle.rs
+180211af0	string	InactiveStreamId
+180211b00	string	UnexpectedFrameType
+180211b13	string	PayloadTooBig
+180211b20	string	Rejected
+180211b28	string	ReleaseCapacityTooBig
+180211b3d	string	OverflowedStreamId
+180211b4f	string	MalformedHeaders
+180211b5f	string	MissingUriSchemeAndAuthority
+180211b7b	string	PollResetAfterSendResponse
+180211b95	string	SendPingWhilePending
+180211ba9	string	SendSettingsWhilePending
+180211bc1	string	PeerDisabledServerPush
+180211bd7	string	InvalidInformationalStatusCodeOutputSliceTooSmall
+180211c08	string	Writer must be present
+180211c1e	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base64-0.22.1\src\write\encoder.rs
+180211cb8	string	buffer is large enough
+180211d00	string	last stream closed during poll, wake again
+1802124b8	string	unable to find a
+1802124c8	string	ny user-specifie
+1802124d8	string	d roots in the 
+1802124e7	string	final cert chain
+1802125a8	string	mid > len
+1802125b1	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\schannel-0.1.29\src\tls_stream.rs
+180212617	string	assertion failed: pos <= self.dec_in.get_ref().len() as u64
+180212930	string	unexpected EOF during handshake
+18021294f	string	assertion failed: size >= nread
+180212a90	string	1.3.6.1.5.5.7.3.1
+180212aa2	string	1.3.6.1.4.1.311.10.3.3
+180212abb	string	16.840.1.113730.4.1
+180212c08	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\io\util\write_all.rs
+180212c90	string	filled must not become larger than initializedC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\common\io\compat.rs
+1802132e8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\rt\io.rs
+1802133a0	string	size overflows MAX_SIZE
+1802133b7	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+180213489	string	Proxy-Authorization: 
+18021349e	string	\r\nC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\proxy\tunnel.rs
+1802135b8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-native-tls-0.3.1\src\lib.rs
+180213770	string	accept
+180213776	string	accept-charset
+180213784	string	accept-encoding
+180213793	string	accept-language
+1802137a2	string	accept-ranges
+1802137af	string	access-control-allow-credentials
+1802137cf	string	access-control-allow-headers
+1802137eb	string	access-control-allow-methods
+180213807	string	access-control-allow-origin
+180213822	string	access-control-expose-headers
+18021383f	string	access-control-max-age
+180213855	string	access-control-request-headers
+180213873	string	access-control-request-method
+180213890	string	age
+180213893	string	allow
+180213898	string	alt-svc
+18021389f	string	authorization
+1802138ac	string	cache-control
+1802138b9	string	cache-status
+1802138c5	string	cdn-cache-control
+1802138d6	string	connection
+1802138e0	string	content-disposition
+1802138f3	string	content-encoding
+180213903	string	content-language
+180213913	string	content-length
+180213921	string	content-location
+180213931	string	content-range
+18021393e	string	content-security-policy
+180213955	string	content-security-policy-report-only
+180213978	string	content-type
+180213984	string	cookie
+18021398a	string	dnt
+18021398d	string	date
+180213991	string	etag
+180213995	string	expect
+18021399b	string	expires
+1802139a2	string	forwarded
+1802139ab	string	from
+1802139af	string	host
+1802139b3	string	if-match
+1802139bb	string	if-modified-since
+1802139cc	string	if-none-match
+1802139d9	string	if-range
+1802139e1	string	if-unmodified-since
+1802139f4	string	last-modified
+180213a01	string	link
+180213a05	string	location
+180213a0d	string	max-forwards
+180213a19	string	origin
+180213a1f	string	pragma
+180213a25	string	proxy-authenticate
+180213a37	string	proxy-authorization
+180213a4a	string	public-key-pins
+180213a59	string	public-key-pins-report-only
+180213a74	string	range
+180213a79	string	referer
+180213a80	string	referrer-policy
+180213a8f	string	refresh
+180213a96	string	retry-after
+180213aa1	string	sec-websocket-accept
+180213ab5	string	sec-websocket-extensions
+180213acd	string	sec-websocket-key
+180213ade	string	sec-websocket-protocol
+180213af4	string	sec-websocket-version
+180213b09	string	server
+180213b0f	string	set-cookie
+180213b19	string	strict-transport-security
+180213b32	string	te
+180213b34	string	trailer
+180213b3b	string	transfer-encoding
+180213b4c	string	user-agent
+180213b56	string	upgrade
+180213b5d	string	upgrade-insecure-requests
+180213b76	string	vary
+180213b7a	string	via
+180213b7d	string	warning
+180213b84	string	www-authenticate
+180213b94	string	x-content-type-options
+180213baa	string	x-dns-prefetch-control
+180213bc0	string	x-frame-options
+180213bcf	string	x-xss-protection
+180213bdf	string	
+180213c20	string	abcdefghijklmnopqrstuvwxyz
+180213c3d	string	^_`abcdefghijklmnopqrstuvwxyz
+180213d58	string	overflow
+180213d60	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\rt\io.rs
+180213dd8	string	\r\n0\r\n\r\n
+180213ddf	string	0\r\n
+180213de2	string	current header name
+180213df5	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h1\encode.rs
+180213e90	string	TimedOut
+180213e98	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\connect.rs
+180213fa8	string	windows_named_pipe() set, proxies are ignored
+180213fd5	string	reqwest::connect
+1802140a8	string	tunneling HTTPS over proxy
+180214118	string	connect local must have pipe path
+180214188	string	reqwest::connect::verbose
+180215268	string	internal error: entered unreachable code
+180215290	string	http
+180215294	string	s
+180215390	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-tls-0.6.0\src\client.rs
+180215410	string	ALPN upgraded to HTTP/2
+1802154a0	string	ALPN negotiated h2, updating pool
+1802154e8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs
+180215576	string	sending connection error to error channel
+180215640	string	Connection is HTTP/1, but request requires HTTP/2
+180215728	string	CONNECT is not allowed for HTTP/1.0
+1802157e8	string	bytes remaining on streamC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-core-0.1.36\src\dispatcher.rs
+180215888	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-native-tls-0.3.1\src\lib.rs
+180215920	string	TryFlatten polled after completionC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\try_future\try_flatten.rs
+180215a30	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\value.rs
+180215ab2	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\context\current.rs
+180215c30	string	PoolDisabledCheckoutNoLongerWantedCheckedOutClosedValue
+180215c67	string	PoisonErrorC:\Users\burne\.cargo\registry\src\index.crates.io-1949c
+180215caa	string	f8c6b5b557f\reqwest-0.12.28\src\connect.rs
+180215cf0	string	ForceHttpsButUriNotHttps
+180215d08	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-0.5.3\src\timeout\mod.rs
+180215d88	string	Ready polled after completionC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\ready.rs
+180215e30	string	cannot poll Select twice
+180215e48	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\select.rs
+180216020	string	future polled after completion
+18021603e	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-native-tls-0.3.1\src\lib.rs
+1802160c0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\dns.rs
+180216150	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs
+1802161c8	string	dns error
+180216340	string	assertion failed: !self.context.is_null()
+180216469	string	Queue::push_front
+18021647a	string	 -> first entry
+180216489	string	 -> existing entries
+18021649d	string	 -> already queued
+1802164af	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs
+180216530	string	assertion failed: N::next(&stream).is_none()
+1802165b0	string	failed to write whole buffer
+1802165e8	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+1802166d8	string	h2::ext::Protocol
+1802166e9	string	description() is deprecated; use Display
+1802167a0	string	filled must not become larger than initialized
+1802167ce	string	filled overflowC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\net\tcp\socket.rs
+180216860	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\net\tcp\stream.rs
+180216900	string	StreamId
+180216908	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\io\read_buf.rs
+1802169c9	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-0.12.28\src\connect.rs
+180216a2c	string	reqwest::connect
+180216a50	string	tunneling HTTPS over proxy
+180216aa8	string	connect local must have pipe path
+180216b58	string	FlowControl
+180216b63	string	window_size
+180216b6e	string	available
+180217214	string	https required but URI was not https
+180217360	string	utf-8
+180217365	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\parse.rs
+180217578	string	IBM866
+1802175a0	string	KOI8-R
+1802175c8	string	KOI8-U
+180217618	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\lib.rs
+18021767a	string	l1l2l3l4l5l6l9866mackoigbkbig5utf8koi8sjisucs-2ms932cp866utf-8cp819asciix-gbkgreekcp1250cp1251latin1gb2312cp1252latin2cp1253latin3cp1254latin4cp1255csbig5latin5utf-16cp1256ibm866latin6cp1257cp1258greek8ibm819arabicvisualkoreaneuc-jpkoi8-rkoi8_reuc-krx-sjiskoi8-uhebrewtis-620ksc5601gb_2312dos-874cn-big5unicodechineselogicalcskoi8rcseuckrkoi8-rux-cp1250ksc_5601x-cp1251iso88591csgb2312x-cp1252iso88592x-cp1253iso88593ecma-114x-cp1254iso88594x-cp1255iso88595x-x-big5x-cp1256csibm866iso88596x-cp1257iso88597asmo-708ecma-118elot_928x-cp1258iso88598iso88599cyrillicutf-16beutf-16leus-asciims_kanjix-euc-jpiso885910iso8859-1iso885911iso8859-2iso8859-3iso885913iso8859-4iso885914iso8859-5iso885915iso8859-6iso8859-7iso8859-8iso-ir-58iso8859-9csunicode
+180217963	string	macintoshshift-jisshift_jisiso-ir-100iso8859-10iso-ir-110gb_2312-80iso-8859-1iso_8859-1iso-ir-101iso8859-11iso-8859-2iso_8859-2hz-gb-2312iso-8859-3iso_8859-3iso8859-13iso-8859-4iso_8859-4iso8859-14iso-ir-144iso-8859-5iso_8859-5iso8859-15iso-8859-6iso_8859-6iso-ir-126iso-8859-7iso_8859-7iso-ir-127iso-ir-157iso-8859-8iso_8859-8iso-ir-138iso-ir-148iso-8859-9iso_8859-9iso-ir-109iso-ir-149big5-hkscscsshiftjisiso-8859-10iso-8859-11csisolatin1csisolatin2iso-8859-13csisolatin3iso-8859-14
+180217b47	string	windows-874csisolatin4iso-8859-15iso_8859-15csisolatin5iso-8859-16csisolatin6windows-949csisolatin9
+180217baa	string	c
+180217bab	string	siso88596ecsiso88598eunicodefffeunicodefeffcsmacintoshcsiso88596icsiso88598iwindows-31jx-mac-romaniso-2022-cniso-2022-jpcsiso2022jpiso-2022-krcsiso2022krreplacementwindows-1250windows-1251windows-1252windows-1253windows-1254windows-1255windows-1256windows-1257windows-1258iso-8859-6-eiso-8859-8-eiso-8859-6-iiso-8859-8-isun_eu_greekcsksc56011987unicode20utf8unicode11utf8ks_c_5601-1987ansi_x3.4-1968ks_c_5601-1989x-mac-cyrillicx-user-definedcsiso58gb231280iso-10646-ucs-2iso_8859-1:1987iso_8859-2:1987iso_8859-6:1987iso_8859-7:1987iso_8859-3:1988iso_8859-4:1988iso_8859-5:1988iso_8859-8:1988x-unicode20utf8iso_8859-9:1989csisolatingreekx-mac-ukrainianiso-2022-cn-extcsisolatinarabiccsisolatinhebrewunicode-1-1-utf-8csisolatincyrilliccseucpkdfmtjapanese
+180218ce0	string	UTF-16BE
+180218ce8	string	\n
+180218d50	string	Shift_JIS
+180218d80	string	ISO-8859-2
+180218db0	string	ISO-8859-3
+180218de0	string	ISO-8859-4
+180218e10	string	ISO-8859-5
+180218e40	string	ISO-8859-6
+180218e70	string	ISO-8859-7
+180218ea0	string	ISO-8859-8
+180218f00	string	ISO-8859-10
+180218f30	string	ISO-8859-13
+180218f60	string	ISO-8859-14
+180218f90	string	ISO-8859-15
+180218fc0	string	ISO-8859-16
+180219030	string	ISO-8859-8-I
+180219970	string	Must not use a decoder that has finished.
+1802199e8	string	Output buffer must have been too small.
+180219f74	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\handles.rs
+180219fda	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\utf_8.rs
+1802248ff	string	rCsMsQsLsbtstqtutrtgtnt
+180231644	string	`!
+180231646	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\data.rs
+18023891a	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\ascii.rs
+180238998	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\handles.rs
+180238a40	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\handles.rs
+180238ad0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\data.rs
+180238b50	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\handles.rs
+180238bb6	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\gb18030.rs
+180238c68	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\handles.rs
+180238df8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\data.rs
+180238e78	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\handles.rs
+180238f10	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\iso_2022_jp.rs
+180238f7a	string	internal error: entered unreachable code
+180238fdc	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\handles.rs
+180239078	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\encoding_rs-0.8.35\src\handles.rs
+1802390de	string	assertion failed: i < self.len
+180239268	string	a Display implementation returned an error unexpectedly
+18023929f	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\string.rs
+180239348	string	Error
+180239387	string	^
+180239388	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\time.rs
+1802393f6	string	overflow in Duration::new
+180239448	string	assertion failed: ttl >= Duration::from_secs(1)C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-0.5.3\src\retry\budget\tps_budget.rs
+180239548	string	assertion failed: retry_percent >= 0.0
+180239588	string	assertion failed: retry_percent <= 1000.0
+1802395d0	string	assertion failed: min_per_sec < i32::MAX as u32
+180239618	string	generation lock
+180239688	string	overflow when subtracting durations
+1802396e0	string	request timed out
+1802396f1	string	PoisonError
+1802396fc	string	
+180239702	unicode	ntdll.dll
+180239716	string	RtlGetVersion
+180239724	string	Microsoft Unified Security Protocol Provider
+180239788	string	called `Result::unwrap()` on an `Err` valueLayoutError
+1802397be	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\schannel-0.1.29\src\alpn_list.rs
+180239858	string	[internal exception] blocking task ran twice.C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\blocking\task.rs
+180239910	string	failed to write whole buffer
+180239948	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+180239a10	string	/
+180239a11	string	slash is a valid path
+180239a26	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs
+180239ab0	string	scheme is valid
+180239ad8	string	path is valid uri
+180239b08	string	domain is valid Uri
+180239b38	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:743
+180239bb3	string	hyper_util::client::legacy::client
+180239bd5	string	message
+180239c20	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs
+180239d78	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:918
+180239e9c	string	authority is valid
+180239ec8	string	internal error: entered unreachable code: authority_form with relative uri
+180239f30	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:951
+18023a079	string	http
+18023a07d	string	sevent C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:526
+18023a178	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:574
+18023a270	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:634
+18023a368	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:609
+18023a460	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:644
+18023a558	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:599
+18023a650	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:549
+18023a748	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:620
+18023a840	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:626
+18023a938	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:588
+18023aa30	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:553
+18023ab28	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:590
+18023ac20	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:263
+18023ad18	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:381
+18023ae10	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:292
+18023af08	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:438
+18023b000	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\client.rs:222
+18023b238	string	InvalidUri
+18023b268	string	InvalidUriParts
+18023b277	string	hyper_util::client::legacy::Error
+18023b298	string	
+18023b2eb	string	CanceledChannelClosedConnectUserUnsupportedRequestMethodUserUnsupportedVersionUserAbsoluteUriRequiredSendRequest
+18023b3d8	string	internal error: entered unreachable codeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\uri\scheme.rs
+18023b5d3	string	base64 is always valid HeaderValue
+18023b5f5	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\proxy\matcher.rs
+18023b6c0	string	HTTP_PROXYhttp_proxy
+18023b6f8	string	HTTPS_PROXYhttps_proxy
+18023b788	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+18023b820	string	Software\Microsoft\Windows\CurrentVersion\Internet Settings
+18023b85b	string	ProxyEnable
+18023b866	string	ProxyServer
+18023b871	string	ProxyOverride
+18023b87e	string	,
+18023b87f	string	*.C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+18023b940	string	PoisonError
+18023b980	string	fatal runtime error: thread local panicked on drop, aborting\n
+18023b9f0	string	hyper_util::client::legacy::connect::http::HttpInfo
+18023baa1	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\rt\tokio.rs
+18023bb90	string	assertion failed: (*tail).value.is_none()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\queue.rs
+18023bc40	string	assertion failed: (*next).value.is_some()
+18023bc88	string	failed to write whole buffer
+18023bcc0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+18023bd90	string	OutputSliceTooSmall
+18023bda3	string	Writer must be present
+18023bdb9	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base64-0.22.1\src\write\encoder.rs
+18023be50	string	buffer is large enough
+18023bf20	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs
+18023bfb0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs:481
+18023c031	string	hyper_util::client::legacy::connect::http
+18023c05a	string	message
+18023c0a8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs
+18023c320	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs:774
+18023c420	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs:767
+18023c520	string	invalid URL, host is missingevent C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs:561
+18023c638	string	invalid URL, scheme is missingevent C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs:927
+18023c750	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs:921
+18023c850	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs:844
+18023c950	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\http.rs:933
+18023cc08	string	hyper_util::client::legacy::connect::http::HttpInfo
+18023cc3b	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\time.rs
+18023cca9	string	overflow in Duration::new
+18023cd88	string	ConnectError
+18023cdf8	string	tunnel error: failed to create underlying connectionio error establishing tunnelmissing destination hostproxy authorization requiredproxy response headers too longunexpected end of fileunsuccessful
+18023cebd	string	usize overflow when calculating b64 lengthC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base64-0.22.1\src\encode.rs
+18023cf78	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+18023d05c	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:186
+18023d0d5	string	hyper_util::client::legacy::pool
+18023d0f5	string	message
+18023d140	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs
+18023d228	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:268
+18023d320	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:686
+18023d418	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:660
+18023d510	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:817
+18023d608	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:806
+18023d700	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:492
+18023d7f8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:498
+18023d8f0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:353
+18023d9e8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:382
+18023dae0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:401
+18023dbd8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:350
+18023dcd0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:410
+18023ddc8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:397
+18023dec0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:315
+18023dfb8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:305
+18023e110	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\mod.rs
+18023e1d0	string	called `Result::unwrap()` on an `Err` valueInvalidUriCharInvalidSchemeInvalidAuthorityInvalidPortInvalidFormatSchemeMissingAuthorityMissingPathAndQueryMissingPathDoesNotStartWithSlashTooLongEmptySchemeTooLong
+18023e2a0	string	
+18023e2c0	string	InvalidUripool is disabledrequest was canceledchecked out connection was closed
+18023e328	string	Ready polled after completionC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\ready.rs
+18023e3d0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:574
+18023e4c8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\pool.rs:728
+18023e6bf	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-util-0.1.20\src\client\legacy\connect\dns.rs
+18023e798	string	a formatting trait implementation returned an error when the underlying stream did notC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+18023e8f8	string	internal error: entered unreachable code: unexpected stageC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+18023e9b8	string	JoinHandle polled after completionC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+18023eb30	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.6.1\src\key.rs
+18023ebdc	string	mid > len
+18023ebe5	string	attempt to join into collection with len > usize::MAXC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\str.rs
+18023eccc	string	allocation failedC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.6.1\src\data.rs
+18023ed60	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base64-0.22.1\src\engine\general_purpose\mod.rs
+18023eeb0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base64-0.22.1\src\encode.rs
+18023ef48	string	called `Result::unwrap()` on an `Err` value
+18023efc8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.1\src\parser.rs
+18023f0d0	string	assertion failed: head.len() + tail.len() <= 8
+18023f130	string	PrefixLenError
+18023f13e	string	assertion failed: (*tail).value.is_none()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\queue.rs
+18023f1f0	string	assertion failed: (*next).value.is_some()
+18023f258	string	Chunked
+18023f280	string	LengthInit
+18023f28a	string	BodyKeepAliveClosed
+18023f300	string	Encoder
+18023f307	string	kind
+18023f30b	string	is_last
+18023f324	string	description() is deprecated; use Display
+18023f420	string	Reset
+18023f470	string	Reason
+18023f4c0	string	IoHeaderNameHeaderValueNewLineStatusTokenTooManyHeadersVersion
+18023f520	string	Error
+18023f525	string	kindinvalid header nameinvalid header valueinvalid new lineinvalid response statusinvalid tokentoo many headersinvalid HTTP version
+18023f5c8	string	Parse
+18023f5f0	string	IncompleteMessageUnexpectedMessageCanceledChannelClosedBodyBodyWriteShutdownHttp2BodyWriteAbortedInvalidConnectWithBodyServiceNoUpgradeManualUpgradeDispatchGone
+18023f690	string	hyper::Error
+18023f6e0	string	MethodVersionH2Uri
+18023f718	string	HeaderTooLargeInternalContentLengthInvalidTransferEncodingUnexpected
+18023f75c	string	TimedOut
+18023fa38	string	invalid HTTP method parsedinvalid HTTP version parsedinvalid HTTP version parsed (found HTTP2 preface)invalid URIinvalid HTTP header parsedinvalid content-length parsedunexpected transfer-encoding parsedmessage head is too largeinvalid HTTP status-code parsedinternal error inside Hyper and/or its dependencies, please reporterror from user's Body streamuser body write aborteduser sent CONNECT request with non-zero bodyerror from user's Serviceno upgrade availableupgrade expected but low level API in usedispatch task is goneconnection closed before message completedreceived unexpected message from connectionoperation was canceledchannel closedconnection errorerror reading a body from connectionerror writing a body to connectionerror shutting down connectionhttp2 error
+18023fd40	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\error.rs
+18023fd9e	string	h2::Error::is_io
+18023fdc8	string	user code panicked
+18023fdda	string	runtime dropped the dispatch task
+18023fdfb	string	operation timed out
+18023fe30	string	StreamId
+18023fe38	string	KeepAliveTimedOut
+180240160	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\rt\io.rs
+1802401d8	string	h2 error reported io cause without an underlying io errorC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h2\upgrade.rs
+1802402c2	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180240358	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+180240428	string	size overflows MAX_SIZE
+180240489	string	Partial headerInactiveStreamIdUnexpectedFrameTypePayloadTooBigRejectedReleaseCapacityTooBigOverflowedStreamIdMalformedHeadersMissingUriSchemeAndAuthorityPollResetAfterSendResponseSendPingWhilePendingSendSettingsWhilePendingPeerDisabledServerPushInvalidInformationalStatusCode
+18024059c	string	None
+1802405a0	string	
+180240628	string	Length
+1802406f0	string	statechunk_lenextensions_cnttrailers_buftrailers_cnth1_max_headersh1_max_header_size
+1802407b8	string	Chunked
+1802407e0	string	EofStartSizeSizeLwsExtensionSizeLfBodyBodyCrBodyLfTrailerTrailerLfEndCrEndLfEnd
+18024082f	string	PoisonError
+18024083a	string	poisoned lock: another task failed inside
+180240863	string	end of file before message length reached
+180240a80	string	CHUNK_SIZE_MAX_BYTES should fit any usize
+180240aa9	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h1\encode.rs
+180240b47	string	 more bytes
+180240b53	string	&mut [u8].write() cannot error
+180240be8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+180240c49	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+180240cbe	string	original header value plus ascii is valid
+180240ce7	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\headers.rs
+180240da0	string	size overflows MAX_SIZE
+180240e12	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180240f00	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+180240ff8	string	accept
+180240ffe	string	accept-charset
+18024100c	string	accept-encoding
+18024101b	string	accept-language
+18024102a	string	accept-ranges
+180241037	string	access-control-allow-credentials
+180241057	string	access-control-allow-headers
+180241073	string	access-control-allow-methods
+18024108f	string	access-control-allow-origin
+1802410aa	string	access-control-expose-headers
+1802410c7	string	access-control-max-age
+1802410dd	string	access-control-request-headers
+1802410fb	string	access-control-request-method
+180241118	string	age
+18024111b	string	allow
+180241120	string	alt-svc
+180241127	string	authorization
+180241134	string	cache-control
+180241141	string	cache-status
+18024114d	string	cdn-cache-control
+18024115e	string	connection
+180241168	string	content-disposition
+18024117b	string	content-encoding
+18024118b	string	content-language
+18024119b	string	content-length
+1802411a9	string	content-location
+1802411b9	string	content-range
+1802411c6	string	content-security-policy
+1802411dd	string	content-security-policy-report-only
+180241200	string	content-type
+18024120c	string	cookie
+180241212	string	dnt
+180241215	string	date
+180241219	string	etag
+18024121d	string	expect
+180241223	string	expires
+18024122a	string	forwarded
+180241233	string	from
+180241237	string	host
+18024123b	string	if-match
+180241243	string	if-modified-since
+180241254	string	if-none-match
+180241261	string	if-range
+180241269	string	if-unmodified-since
+18024127c	string	last-modified
+180241289	string	link
+18024128d	string	location
+180241295	string	max-forwards
+1802412a1	string	origin
+1802412a7	string	pragma
+1802412ad	string	proxy-authenticate
+1802412bf	string	proxy-authorization
+1802412d2	string	public-key-pins
+1802412e1	string	public-key-pins-report-only
+1802412fc	string	range
+180241301	string	referer
+180241308	string	referrer-policy
+180241317	string	refresh
+18024131e	string	retry-after
+180241329	string	sec-websocket-accept
+18024133d	string	sec-websocket-extensions
+180241355	string	sec-websocket-key
+180241366	string	sec-websocket-protocol
+18024137c	string	sec-websocket-version
+180241391	string	server
+180241397	string	set-cookie
+1802413a1	string	strict-transport-security
+1802413ba	string	te
+1802413bc	string	trailer
+1802413c3	string	transfer-encoding
+1802413d4	string	user-agent
+1802413de	string	upgrade
+1802413e5	string	upgrade-insecure-requests
+1802413fe	string	vary
+180241402	string	via
+180241405	string	warning
+18024140c	string	www-authenticate
+18024141c	string	x-content-type-options
+180241432	string	x-dns-prefetch-control
+180241448	string	x-frame-options
+180241457	string	x-xss-protection
+180241490	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h1\role.rs
+180241548	string	size overflows MAX_SIZE
+1802415b0	string	chunked
+1802415d0	string	internal error: entered unreachable code: BodyLength::Unknown would set chunked
+1802416ca	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180241770	string	httparse completed
+180241e2b	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\value.rs
+180241ec0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\sync\oneshot.rs
+180241fd0	string	hyper::ext::h1_reason_phrase::ReasonPhrase
+180242028	string	keep-aliveproxy-connection
+1802420d8	string	TimedOut
+1802420e0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h2\ping.rs
+180242160	string	pong received implies ping_sent_at
+1802421a0	string	bdp enabled implies bytes
+1802421d8	string	keep_alive expects last_read_at
+1802422d0	string	keep-alive timed out
+180242308	string	just sent Ok
+180242314	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\body\incoming.rs
+1802423f0	string	assertion failed: slot.is_none()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\oneshot.rs
+180242540	string	hyper::ext::HeaderCaseMap
+180242559	string	hyper::ext::h1_reason_phrase::ReasonPhrase
+180242600	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\vec\mod.rs
+180242690	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+180242720	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\slice.rs
+1802427a8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+180242869	string	abcdefghijklmnopqrstuvwxyz
+180242886	string	^_`abcdefghijklmnopqrstuvwxyz
+180242950	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180242a1d	string	You must supply a timer.C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\common\time.rs
+180242ad0	string	UserLibraryRemote
+180242b0c	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\mod.rs
+180242bc0	string	buffer space exhausted; sending this messages would overflow the state
+180242c38	string	requested buffer size too large
+180242c90	string	called `Result::unwrap()` on an `Err` value
+180242cd8	string	cannot clone `Sender` -- too many outstanding senders
+180242d40	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+18024316c	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\want-0.3.1\src\lib.rs
+180243430	string	Header
+180243458	string	name
+18024345c	string	value
+180243488	string	invalid header nameinvalid header valueinvalid new lineinvalid response statusinvalid tokentoo many headersinvalid HTTP version
+180243507	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.1\src\lib.rs
+180243648	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\ping_pong.rs
+1802436b4	string	Tevent C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\ping_pong.rs:120
+180243723	string	h2::proto::ping_pong
+180243737	string	message
+180243780	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\ping_pong.rs
+180243860	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\ping_pong.rs:110
+180243948	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\ping_pong.rs:128
+180243a30	string	assertion failed: self.pending_pong.is_none()
+180243a80	string	pending_ping should be for shutdown
+180243ac0	string	recv PING SHUTDOWN ack
+180243cd8	string	Ping
+180243cdc	string	ack
+180243cdf	string	payload
+180243d48	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:282
+180243db9	string	h2::codec::framed_write
+180243dd0	string	messagerem
+180243e30	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs
+180243fb0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:278
+1802440a0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:286
+180244190	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:302
+180244280	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:229
+180244390	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:290
+180244480	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:151
+1802444f1	string	queued_data_frame
+180244590	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:146
+180244680	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:172
+180244780	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_write.rs:161
+180244870	string	FramedWrite::flush
+180244900	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\window_update.rs:51
+180244971	string	h2::frame::window_updateC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\window_update.rs
+180244a70	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\head.rs
+180244ae8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\reset.rs:41
+180244b51	string	h2::frame::resetC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\reset.rs
+180244c40	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\stream_id.rs
+180244cc0	string	clear_queue
+180244ccb	string	h2::proto::streams::prioritize
+180244ce9	string	stream.id
+180244d08	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs
+180244df0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:673
+180244ee0	string	Prioritize::queue_frame
+180244f70	string	try_reclaim_frame
+180245000	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:129
+180245110	string	schedule_send
+180245160	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:525
+180245250	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:539
+180245340	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:918
+180245430	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:914
+180245556	string	reserve_capacity
+180245566	string	requestedeffectivecurr
+180245678	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:608
+1802456ef	string	sz
+1802457a0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:620
+180245890	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:432additional
+180245911	string	bufferedwindowconn
+1802459f0	string	try_assign_capacity
+180245a80	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:470
+180245af7	string	availablehas_unavailable
+180245bc8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:459capacity
+180245d00	string	assigning
+180245d30	string	clear_pending_capacity
+180245dc0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:365
+180245eb0	string	window size should be greater than reserved
+180245edb	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs
+180245f68	string	recv_stream_window_updatestream.state
+180245f8d	string	incflow
+180246090	string	assign_connection_capacity
+180246138	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:94
+180246228	string	invalid initial window size
+180246279	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:875
+1802462f0	string	
+180246368	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:885
+180246458	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:768
+180246548	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:755eos
+1802466b0	string	updating connection flow
+1802466c8	string	
+180246740	string	pop_frame
+1802467c8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:804len
+1802468e0	string	popped
+180246980	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:729
+1802469f7	string	is_pending_reset
+180246a90	string	updating stream flow
+180246b20	string	send_data
+180246bc8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:197
+180246cd8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\prioritize.rs:178
+180246df8	string	DataHeadersPriorityResetSettingsPushPromisePingGoAwayWindowUpdateContinuationUnknownNO_ERRORPROTOCOL_ERRORINTERNAL_ERRORFLOW_CONTROL_ERRORSETTINGS_TIMEOUTSTREAM_CLOSEDFRAME_SIZE_ERRORREFUSED_STREAMCANCELCOMPRESSION_ERRORCONNECT_ERRORENHANCE_YOUR_CALMINADEQUATE_SECURITYHTTP_1_1_REQUIRED
+180246f16	string	Reason
+180247181	string	inactive stream
+180247190	string	unexpected frame type
+1802471a5	string	payload too big
+1802471b4	string	rejected
+1802471bc	string	release capacity too big
+1802471d4	string	stream ID overflowed
+1802471e8	string	malformed headers
+1802471f9	string	request URI missing scheme and authority
+180247221	string	poll_reset after send_response is illegal
+18024724a	string	send_ping before received previous pong
+180247271	string	sending SETTINGS before received previous ACK
+18024729e	string	sending PUSH_PROMISE to peer who disabled server push
+1802472d3	string	invalid informational status code
+180247318	string	StreamId
+180247320	string	
+180247340	string	Window
+180247388	string	FlowControl
+180247393	string	window_size
+180247690	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\settings.rs
+180247728	string	assertion failed: DEFAULT_MAX_FRAME_SIZE <= val && val <= MAX_MAX_FRAME_SIZE
+180247790	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\settings.rs:152
+1802477fd	string	h2::frame::settings
+180247810	string	message
+180247858	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\settings.rs
+180247980	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\settings.rs:218
+180247a82	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\settings.rs:224
+180247b81	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:536
+180247bf0	string	h2::proto::connectionframe
+180247c30	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs
+180247d10	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:540
+180247df8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:524
+180247ee0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:532
+180247fc8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:570
+1802480b0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:553
+180248198	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:544
+180248280	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:528
+180248368	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:566
+180248450	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:574
+180248538	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:510
+180248620	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:501error
+180248730	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:471
+180248950	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:452
+180248a38	string	poll_ready
+180248ac0	string	Connection
+180248aca	string	peer
+180248bd8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:306
+180248cc0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\connection.rs:277
+180248d2f	string	connection.state
+180248dc8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\flow_control.rs:124
+180248e41	string	h2::proto::streams::flow_controlC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\flow_control.rs
+180248ed0	string	
+180248f6a	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\flow_control.rs:156
+180249090	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\flow_control.rs:140
+1802491b3	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\flow_control.rs:171
+1802492d2	string	assertion failed: self.window_size.0 >= sz as i32C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\flow_control.rs
+180249390	string	negative Window
+1802493b8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\stream.rs:289
+18024942b	string	h2::proto::streams::streamC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\stream.rs
+180249584	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\stream.rs:333
+180249670	string	  notifying task
+180249680	string	invalid initial receive window
+18024969e	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\stream.rs
+180249758	string	assertion failed: self.ref_count > 0
+180249798	string	assertion failed: self.ref_count < usize::MAX
+1802497e0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\stream.rs:315
+1802499c8	string	HeaderTableSizeEnablePushMaxConcurrentStreamsInitialWindowSizeMaxFrameSizeMaxHeaderListSizeEnableConnectProtocol
+180249a38	string	None
+180249aa8	string	Settings
+180249ab0	string	
+180249ad0	string	flags
+180249af8	string	header_ta
+180249b01	string	ble_size
+180249b09	string	enable_push
+180249b14	string	max_concurrent_streams
+180249b2a	string	initial_window_size
+180249b3d	string	max_frame_size
+180249b4b	string	max_header_list_size
+180249b5f	string	enable_connect_protocol
+180249b76	string	StreamId
+180249ba0	string	Deque
+180249ba5	string	indices
+180249bac	string	ACK
+180249baf	string	Stream
+180249bf8	string	state
+180249c20	string	is_counted
+180249c50	string	ref_count
+180249c80	string	next_pending_send
+180249c91	string	is_pending_send
+180249ca0	string	
+180249cc0	string	send_flow
+180249cc9	string	requested_send_capacity
+180249ce0	string	buffered_send_data
+180249d18	string	send_task
+180249d48	string	pending_send
+180249d54	string	next_pending_send_capacity
+180249d6e	string	is_pending_send_capacity
+180249d86	string	send_capacity_inc
+180249d97	string	next_open
+180249da0	string	is_pending_open
+180249daf	string	is_pending_push
+180249dbe	string	next_pending_accept
+180249dd1	string	is_pending_accept
+180249de2	string	recv_flow
+180249deb	string	in_flight_recv_data
+180249dfe	string	next_window_update
+180249e10	string	is_pending_window_update
+180249e28	string	
+180249e48	string	reset_at
+180249e50	string	next_reset_expire
+180249e61	string	pending_recv
+180249e6d	string	is_recv
+180249e74	string	recv_task
+180249e7d	string	push_task
+180249ea8	string	pending_push_promises
+180249ee0	string	content_length
+180249f10	string	Window
+180249f16	string	Omitted
+180249f1d	string	Head
+180249f48	string	Remaining
+180249f98	string	FlowControl
+180249fa3	string	window_size
+180249fae	string	available
+18024a018	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:974
+18024a084	string	h2::frame::headers
+18024a096	string	message
+18024a0e0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs
+18024a1c0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:985
+18024a2a8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:980
+18024a390	string	malformed message
+18024a413	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:961
+18024a4f8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:963
+18024a658	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:964
+18024a830	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:960
+18024a918	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:962
+18024aa00	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:965
+18024ae30	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:936
+18024b0f8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:933
+18024b1e0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:946
+18024b540	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs
+18024b5a3	string	assertion failed: payload_len_be[0..5].iter().all(|b| *b == 0)
+18024b630	string	internal error: entered unreachable codeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\uri\scheme.rs
+18024b6d8	string	http
+18024b6dc	string	http
+18024b6e0	string	s
+18024b710	string	/
+18024b711	string	*event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\headers.rs:158
+18024b812	string	Headers
+18024b840	string	stream_id
+18024b870	string	flags
+18024b898	string	protocol
+18024b8a0	string	
+18024b8c0	string	stream_dep
+18024b8f0	string	StreamId
+18024b8f8	string	END_HEADE
+18024b901	string	RS
+18024b903	string	END_STREAM
+18024b90d	string	PADDED
+18024b913	string	PRIORITY
+18024b91b	string	PushPromise
+18024b926	string	promised_id
+18024b958	string	InvalidRepresentation
+18024b96d	string	InvalidIntegerPrefix
+18024b981	string	InvalidTableIndex
+18024b992	string	InvalidHuffmanCode
+18024b9a4	string	InvalidUtf8
+18024b9af	string	InvalidStatusCode
+18024b9c0	string	InvalidPseudoheader
+18024b9d3	string	InvalidMaxDynamicSize
+18024b9e8	string	IntegerOverflow
+18024ba18	string	NeedMoreParseU64Error
+18024ba70	string	StreamDependency
+18024ba80	string	dependency_id
+18024ba8d	string	weight
+18024ba93	string	is_exclusive
+18024bc50	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\go_away.rs:60
+18024bcbb	string	h2::frame::go_away
+18024bccd	string	message
+18024bd18	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\go_away.rs
+18024be4f	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\go_away.rs
+18024bed0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:233
+18024bf41	string	h2::proto::streams::sendC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs
+18024bfc0	string	
+18024c038	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:273
+18024c128	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:217
+18024c218	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:246
+18024c308	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:476
+18024c4a0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:133
+18024c7c0	string	keep-alive
+18024c7ca	string	proxy-connection
+18024c800	string	illegal connection-specific headers foundevent C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:337
+18024c918	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:535
+18024ca08	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:542
+18024caf8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:551
+18024cbe8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:585
+18024ccd8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\send.rs:450
+18024cdc8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:244
+18024ce3a	string	h2::proto::streams::stateC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs
+18024cf38	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:239
+18024d028	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:249
+18024d1af	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:281
+18024d2ca	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:330
+18024d3b8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:334
+18024d517	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs
+18024d598	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:303
+18024d69d	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:217
+18024d7d4	string	event C:\Users\burne\.cargo\registry\src\index.crates.i
+18024d80b	string	o-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:313
+18024d8d3	string	stream closed because of a broken pipeevent C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:165
+18024d9e8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:181
+18024dad8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:151
+18024dbc8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:193
+18024dcb8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\state.rs:201
+18024de0c	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\thread\local.rs
+18024dee0	string	Reset
+18024dee5	string	stream_id
+18024deee	string	error_code
+18024def8	string	GoAway
+18024df20	string	last_stream_id
+18024df50	string	debug_data
+18024df80	string	StreamId
+18024df88	string	AwaitingHeaders
+18024df97	string	StreamingEndStream
+18024dfd0	string	ErrorErrorAfterEndStreamScheduledLibraryResetIdleReservedLocalReservedRemote
+18024e060	string	OpenlocalremoteHalfClosedLocalHalfClosedRemote
+18024e0b0	string	Closed
+18024e180	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\ping.rs:88
+18024e1e8	string	h2::frame::ping
+18024e1f7	string	message
+18024e240	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\frame\ping.rs
+18024e329	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs
+18024e428	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:1636
+18024e49d	string	h2::proto::streams::streamsC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs
+18024e5a0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:1648
+18024e6d0	string	StreamRef::drop; mutex poisoned
+18024e708	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:1080
+18024e7f8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:701
+18024e8e8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:673
+18024e9d8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:680
+18024eac8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:496
+18024ebb8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:526
+18024eca8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:534
+18024ed98	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:476
+18024ee88	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:543
+18024ef78	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:577
+18024f068	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:835
+18024f158	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:845
+18024f248	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:852
+18024f338	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:738
+18024f428	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:943
+18024f518	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:602
+18024f608	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:630
+18024f6f8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:618
+18024f7e8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:648
+18024f8d8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:1737
+18024f9c8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\streams.rs:1785
+18024fad8	string	called `Result::unwrap()` on an `Err` value
+18024fb03	string	PoisonError
+18024fb70	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs:365
+18024fbe0	string	h2::codec::framed_read
+18024fbf6	string	message
+18024fc40	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs
+18024fe08	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs:246
+18024fe78	string	
+180250738	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs:144
+1802507a8	string	frame.kind
+180250a18	string	FramedRead::decode_frame
+180250a30	string	offset
+180250ba8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs:132
+180250c18	string	
+18025100b	string	connection error PROTOCOL_ERROR -- decoded header list size over abuse limit;header_list_way_too_large
+180251214	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs
+180251298	string	connection error PROTOCOL_ERROR -- invalid stream ID 0;
+1802513b3	string	too_many_continuations
+180251593	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs:212
+180251ce0	string	BadFrameSize
+180251cec	string	TooMuchPadding
+180251cfa	string	InvalidSettingValue
+180251d0d	string	InvalidWindowUpdateValue
+180251d25	string	InvalidPayloadLength
+180251d39	string	InvalidPayloadAckSettings
+180251d52	string	InvalidStreamId
+180251d61	string	MalformedMessage
+180251d71	string	HeaderListWayTooLarge
+180251d86	string	InvalidDependencyId
+180251e43	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180251ee0	string	StreamIdC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes_mut.rs
+180251f68	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs:418frame
+180252078	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs:396
+1802520e8	string	
+180252160	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\codec\framed_read.rs:403
+1802521d0	string	read.bytes
+180252268	string	FramedRead::poll_next
+180252468	string	load_hpack; header list size over max
+18025248d	string	load_hpack; header list size over abuse max
+1802524b8	string	load_hpack; connection level header
+1802524db	string	load_hpack; header malformed -- repeated pseudo
+18025250a	string	load_hpack; header malformed -- pseudo not at head of block
+180252570	string	/
+180252571	string	/index.html
+18025257c	string	http
+180252580	string	https
+180252585	string	gzip, deflateC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs
+1802525f5	string	Size of table != 0, but no headers left!
+180252638	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs:330
+1802526a4	string	h2::hpack::decoder
+1802526b6	string	messagelenremaining
+180252730	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs
+180252828	string	decode_string underflow
+180252860	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs:269fromto
+180252980	string	Decoder changed max table sizehpack::decode
+180252a28	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs:247
+180252a94	string	remkind
+180252b38	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs:235
+180252c20	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs:204
+180252d08	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs:196
+180252e00	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs:213
+180252ee8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\decoder.rs:226
+180252fd0	string	decode
+180252fd6	string	Indexed
+180253010	string	LiteralWithIndexing
+180253038	string	LiteralWithoutIndexing
+180253060	string	LiteralNeverIndexed
+180253088	string	SizeUpdate
+1802530a8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+1802535ed	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180253668	string	UnexpectedEndOfStreamIntegerUnderflowStringUnderflow
+18025369c	string	InvalidRepresentation
+1802536b1	string	InvalidIntegerPrefix
+1802536c5	string	InvalidTableIndex
+1802536d6	string	InvalidHuffmanCode
+1802536e8	string	InvalidUtf8
+1802536f3	string	InvalidStatusCode
+180253704	string	InvalidPseudoheader
+180253717	string	InvalidMaxDynamicSize
+18025372c	string	IntegerOverflow
+180253760	string	NeedMore
+180253768	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes_mut.rs
+180254872	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\encoder.rs
+180254990	string	hpack::encode
+18025499d	string	h2::hpack::encoder
+1802549e0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\encoder.rs
+180254ac0	string	encoding header without name, but no previous index to use for name
+180254b20	string	assertion failed: !id.is_zero()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\peer.rs
+180254bb8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\peer.rs:88
+180254c20	string	h2::proto::peer
+180254c2f	string	message
+180254c48	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\peer.rs
+180254e39	string	 - not server initiated;
+180254ed9	string	 - not client initiated;
+180254ef2	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\buffer.rs
+180254fa8	string	assertion failed: slot.next.is_none()
+180255000	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\client.rs
+18025505c	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\client.rs:1316
+1802550c2	string	h2::clientC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\client.rs
+1802551a0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\client.rs:1321
+180255290	string	assertion failed: max <= u32::MAX as usize
+1802552f8	string	StreamId
+180255300	string	
+180255340	string	Indices
+180255347	string	head
+18025534b	string	tailevent C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\client.rs:1475
+1802556c8	string	h2::server
+1802556d2	string	message
+180255720	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs
+1802557d0	string	a Display implementation returned an error unexpectedly
+180255807	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\string.rs
+1802558b0	string	Errorevent C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1731
+180255998	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1736
+180255a78	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1713
+180255b58	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1691
+180255c38	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1749
+180255d18	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1741
+180255df8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1677
+180255ed8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1686
+180255fb8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1759
+1802561ac	string	malformed headers: missing scheme
+1802561cd	string	malformed headers: :status field on request
+1802561f8	string	malformed headers: missing methodevent C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1702
+1802562f8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1746
+1802563d8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\server.rs:1717
+1802565a0	string	Reset
+1802565c8	string	GoAway
+180256610	string	IoNotFoundPermissionDeniedConnectionRefusedConnectionResetHostUnreachableNetworkUnreachableConnectionAbortedNotConnectedAddrInUseAddrNotAvailableNetworkDownBrokenPipeAlreadyExistsWouldBlockNotADirectoryIsADirectoryDirectoryNotEmptyReadOnlyFilesystemFilesystemLoopStaleNetworkFileHandleInvalidInputInvalidDataTimedOutWriteZeroStorageFullNotSeekableQuotaExceededFileTooLargeResourceBusyExecutableFileBusyDeadlockCrossesDevicesTooManyLinksInvalidFilenameArgumentListTooLongInterruptedUnsupportedUnexpectedEofOutOfMemoryInProgressOtherUncategorizedUserLibraryRemote
+180256fd0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs
+1802570a8	string	reset_at must be set if in queueC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs
+180257148	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indexmap-2.14.0\src\inner\entry.rs
+1802571c8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs:325
+18025723a	string	h2::proto::streams::store
+180257253	string	message
+1802572a0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs
+180257308	string	
+180257380	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs:300
+180257470	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs:303
+180257560	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs:315
+180257668	string	assertion failed: N::next(&stream).is_none()
+1802576b0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs:275
+1802577a0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs:263
+180257890	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs:260
+180257980	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\store.rs:285
+180257a70	string	Queue::push_back
+180257a80	string	
+180257aa0	string	 -> first entry
+180257aaf	string	 -> existing entries
+180257ac3	string	 -> already queued
+180257b20	string	assertion failed: self.ids.insert(id, index).is_none()
+180257bc0	string	StreamId
+180257bc8	string	
+180257c08	string	Key
+180257c0b	string	index
+180257c10	string	stream_id
+180257c60	string	Indices
+180257c67	string	head
+180257c6b	string	tail
+180257c6f	string	SlabIndex
+180257c78	string	Queue
+180257ca0	string	indices
+180257cf0	string	clear_pending_capacity
+180257d74	string	assertion failed: stream.is_counted
+180257d97	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\counts.rs
+180257e20	string	assertion failed: self.num_recv_streams > 0
+180257e68	string	assertion failed: self.num_send_streams > 0
+180257eb0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\counts.rs:285
+180257f23	string	h2::proto::streams::counts
+180257f3d	string	message
+180257f88	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\counts.rs
+180258070	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\counts.rs:263
+180258240	string	assertion failed: !stream.is_counted
+180258280	string	assertion failed: self.can_inc_num_send_streams()
+1802582e8	string	assertion failed: self.num_local_reset_streams > 0
+180258338	string	assertion failed: self.can_inc_num_local_error_resets()
+180258388	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\settings.rs:77
+1802583f4	string	h2::proto::settingsC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\settings.rs
+1802584e8	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\settings.rs:56
+1802585d0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\settings.rs:95
+1802586d9	string	assertion failed: !frame.is_ack()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\settings.rs
+180258778	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\settings.rs:159
+180258860	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\settings.rs:134
+180258948	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+180258a09	string	abcdefghijklmnopqrstuvwxyz
+180258a26	string	^_`abcdefghijklmnopqrstuvwxyz
+180258ae8	string	StreamIdC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indexmap-2.14.0\src\inner.rs
+180258b70	string	index not found
+180258ca8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs
+180258df0	string	too_many_resets
+180258e28	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs
+180258e90	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:284
+180258f80	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:207
+180259070	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:255
+180259160	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:225
+180259250	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:168
+180259340	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:192
+180259430	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:250
+180259758	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:357
+180259848	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:363
+180259970	string	 is not opened;;
+180259a30	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:428
+180259c97	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:473
+180259d08	string	
+180259d9a	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:837
+180259e88	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:861
+180259f78	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:855
+18025a1a2	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:1024
+18025a290	string	connection error PROTOCOL_ERROR -- recv_push_promise: push is disabled;event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:588
+18025a348	string	
+18025a3c0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:610
+18025a4b0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:623
+18025a60d	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:511
+18025a725	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:1039
+18025a810	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:1042
+18025a924	string	#, over max_concurrent_reset_streams
+18025a96c	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:803
+18025aa9c	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:1203
+18025ab88	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:445
+18025acbb	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:541
+18025adeb	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:1108
+18025aed8	string	invalid initial remote window size
+18025af30	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:145
+18025b09c	string	assertion failed: self.max_stream_id >= last_processed_id
+18025b0f0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:734
+18025b1e0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:727
+18025b2d0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:683
+18025b3c0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:755
+18025b4b0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:675
+18025b5a0	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:671
+18025b690	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:718
+18025b780	string	event C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\proto\streams\recv.rs:708
+18025b959	string	 for some time
+18025bad3	string	 for some time
+18025bb08	string	called `Result::unwrap()` on an `Err` value
+18025bb58	string	StreamId
+18025bb60	string	
+18025bc80	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\table.rs
+18025bd18	string	Out of bounds access
+18025bdf0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\uri\authority.rs
+18025c0c8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indexmap-2.14.0\src\inner.rs
+18025df60	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.18\src\hpack\huffman\mod.rs
+18025f008	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\uri\path.rs
+18025f080	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\map.rs
+18025f118	string	internal error: entered unreachable codeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slab-0.4.12\src\lib.rs
+18025f19b	string	invalid key
+18025f220	string	assertion failed: cnt <= self.limitC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\buf\limit.rs
+18025f340	string	fatal r
+18025f347	string	untime e
+18025f34f	string	r
+18025f350	string	ror: thread local panicked on drop, aborting\nC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-core-0.1.36\src\dispatcher.rs
+18025f400	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+18025f46f	string	failed to write whole buffer
+18025f4d0	string	fatal runtime error: thread local panicked on drop, aborting\n
+18025f540	string	a formatting trait implementation returned an error when the underlying stream did notC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+18025f620	string	PoisonErrorC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-core-0.1.36\src\callsite.rs
+18025f6b0	string	Attempted to register a `DefaultCallsite` that already exists! This will cause an infinite loop when attempting to read from the callsite cache. This is likely a bug! You should only need to call `DefaultCallsite::register` once per `DefaultCallsite`.
+18025f7e8	string	called `Result::unwrap()` on an `Err` value
+18025f8a0	string	Lazy instance has previously been poisonedC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\lib.rs
+18025fa10	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-core-0.1.36\src\dispatcher.rs
+18025fa98	string	failed to write whole buffer
+18025fad0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+18025fb58	string	Arc counter overflow
+18025fb82	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\sync.rs
+18025fc20	string	Hash table capacity overflowC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashbrown-0.17.1\src\raw.rs
+18025fcb8	string	frame size too big
+18025fcca	string	provided length would overflow after adjustment
+18025fcf9	string	invalid length field lengthC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-util-0.7.19\src\codec\length_delimited.rs
+18025fdca	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes_mut.rs
+18025fe48	string	LengthDelimitedCodecError
+18025fe61	string	description() is deprecated; use Display
+18025ff18	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\atomic-waker-1.1.2\src\lib.rs
+18025ff98	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\mu
+180260001	string	lti_thread\worker.rs
+180260077	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\time\wheel\mod.rs
+180260118	string	assertion failed: self.tail.is_none()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\util\linked_list.rs
+180260220	string	A Tokio 1.x context was found, but IO is disabled. Call `enable_io` on the runtime builder to enable IO.
+180260288	string	A Tokio 1.x context was found, but timers are disabled. Call `enable_time` on the runtime builder to enable timers.
+180260318	string	assertion failed: cx.run(core).is_err()
+180260370	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+180260420	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\defer.rs
+1802604d8	string	internal error: entered unreachable codeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\blocking\schedule.rs
+1802605b0	string	called `Result::unwrap()` on an `Err` value
+1802605db	string	assertion failed: actual_state == EMPTY || actual_state == NOTIFIED
+18026061e	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\sync\notify.rs
+1802606d0	string	assertion failed: self.tail.is_none()
+1802606f5	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\util\linked_list.rs
+1802608aa	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\time\entry.rs
+180260948	string	Timer already fired
+180260978	string	mark_pending called when the timer entry is in an invalid state
+1802609d0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\metrics\worker.rs
+180260ba8	string	called `Result::unwrap()` on an `Err` value
+180260c18	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\park.rs
+180260dc8	string	inconsistent state in unpark
+180260e00	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\time\mod.rs
+180260e88	string	assertion failed: !handle.is_shutdown()
+180260ee0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\context\current.rs
+180260f68	string	Oh no! We never placed the Core back, this is a bug!
+180260f9c	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+1802610d0	string	driver missing
+180261140	string	core missing
+180261258	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\util\wake_list.rs
+1802612d8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\time\wheel\level.rs
+180261349	string	assertion failed: self.tail.is_none()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\util\linked_list.rs
+180261420	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\context.rs
+1802614b8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\context\current.rs
+180261540	string	reached max `enter` depth
+180261578	string	Level
+1802615a0	string	occupied
+1802615a8	string	fatal runtime error: thread local panicked on drop, aborting\nC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\net\tcp\stream.rs
+180261680	string	a formatting trait implementation returned an error when the underlying stream did notC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+180261760	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\io\poll_evented.rs
+180261810	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\io\read_buf.rs
+180261890	string	filled must not become larger than initialized
+1802618be	string	filled overflow
+180261900	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\task\coop\mod.rs
+180261ec4	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\thread\local.rs
+180261f78	string	RNG seed generator is internally corrupt
+180261fa0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\util\rand\rt.rs
+180262020	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\list.rs
+1802620a8	string	Cannot start a runtime from within a runtime. This happens because a function (like `block_on`) attempted to block the current thread while the thread is being used to drive asynchronous tasks.
+180262169	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\context\current.rs
+1802621f8	string	`EnterGuard` values dropped out of order. Guards returned by `tokio::runtime::Handle::enter()` must be dropped in the reverse order as they were acquired.
+1802622b0	string	assertion failed: c.runtime.get().is_entered()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\context\runtime.rs
+180262368	string	failed to write whole buffer
+1802623a0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+1802624e8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\io\driver.rs
+1802625f0	string	failed to wake I/O driver
+180262628	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\multi_thread\worker.rs
+180262c60	string	[internal exception] blocking task ran twice.C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\blocking\task.rs
+180262d38	string	called `Result::unwrap()` on an `Err` value
+180262da0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\blocking\pool.rs
+180262e30	string	`num_idle_threads` underflowed on thread exit
+180262e78	string	assertion failed: shared.shutdown_tx.is_some()
+180262f66	string	 was cancelled
+180262f7c	string		 panicked
+180262fb8	string	there is no such thing as a release loadC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\sync\atomic.rs
+180263070	string	there is no such thing as an acquire-release load
+180263110	string	internal error: entered unreachable code: unexpected stageC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1802631d0	string	waker missing
+180263210	string	assertion failed: curr.is_join_interested()
+18026323b	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\state.rs
+1802632c0	string	assertion failed: curr.is_join_waker_set()
+180263308	string	assertion failed: prev.ref_count() >= 2
+180263360	string	assertion failed: !curr.is_join_waker_set()
+1802633a8	string	assertion failed: curr.is_running()
+1802633e8	string	assertion failed: next.is_notified()
+180263428	string	assertion failed: prev.is_running()
+180263468	string	assertion failed: !prev.is_complete()
+1802634d8	string	assertion failed: prev.is_complete()
+180263518	string	assertion failed: prev.is_join_waker_set()
+180263560	string	assertion failed: snapshot.ref_count() > 0
+1802635a8	string	assertion failed: snapshot.is_join_interested()
+1802635f0	string	assertion failed: prev.ref_count() >= 1
+180263630	string	assertion failed: self.ref_count() > 0
+180263670	string	assertion failed: self.0 <= isize::MAX as usize
+1802636b8	string	None
+1802636bc	string	Some
+1802636c0	string	
+180263720	string	called after completeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\sync\oneshot.rs
+1802637cc	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\io\poll_evented.rs
+180263850	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\net\windows\named_pipe.rs
+1802638d8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\time\sleep.rs
+180263958	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\io\registration.rs
+1802639e0	string	A Tokio 1.x context was found, but it is being shutdown.
+180263a18	string	The Tokio context thread-local variable has been destroyed.
+180263a6a	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\handle.rs
+180263af0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\context\current.rs
+180263b78	string	not a CurrentThread handleC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\mod.rs
+180263c80	string	there is no reactor running, must be called from the context of a Tokio 1.x runtime
+180264210	string	called `Result::unwrap()` on an `Err` value
+180264290	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\blocking\shutdown.rs
+180264302	string	Cannot drop a runtime in a context where blocking is not allowed. This happens when a runtime is dropped from within an asynchronous context.
+1802643a8	string	expected MultiThread schedulerC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\multi_thread\mod.rs
+180264484	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\multi_thread\park.rs
+180264690	string	fatal runtime error: thread local panicked on drop, aborting\n
+1802646cd	string	queue not empty
+1802646dc	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\multi_thread\queue.rs
+180264778	string	internal error: entered unreachable codeC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sys\thread_local\native\lazy.rs
+180264860	string	RUST_MIN_STACK
+18026486e	string	threads should not terminate unexpectedly
+180264897	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\threa
+180264901	string	d\lifecycle.rs
+180264940	string	TOKIO_W
+180264947	string	ORKER_THREADS
+18026496c	string	" cannot be set to 0
+180264981	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\loom\std\mod.rs
+180264a88	string	A Tokio 1.x context was found, but it is being shutdown.
+180264ac0	string	
+180264b20	string	assertion failed: len <= LOCAL_QUEUE_CAPACITY
+180264b68	string	explicit panic
+180264bb8	string	fatal runtime error: thread result panicked on drop, aborting\n
+180264bf6	string	JoinHandle polled after completionC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+180264ca0	string	assertion failed: snapshot.is_join_interested()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\harness.rs
+180264d98	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\multi_thread\worker.rs
+180264e16	string	assertion failed: sharded_size.is_power_of_two()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\util\sharded_list.rs
+180264f40	string	park missing
+180265010	string	core missing
+1802650b0	string	PoisonErrorcould not resolve to any addresses
+180265120	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sync\once.rs
+1802651b0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sys\windows.rs
+180265215	string	socket != -1
+180265258	string	127.0.0.1:34254
+180265878	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mio-1.2.2\src\sys\windows\mod.rs
+180265918	string	called `Result::unwrap()` on an `Err` value
+180265e7c	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mio-1.2.2\src\sys\windows\named_pipe.rs
+180265f58	string	NamedPipe was not previously connecting
+180265fc8	string	I/O source not registered with `Registry`
+180265ff1	string	I/O source already registered with a different `Registry`
+1802660f8	string	called `Result::unwrap()` on an `Err` value
+1802661f0	string	I/O source already registered with a `Registry`
+180266260	string	socket != -1C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\os\windows\io\raw.rs
+180266320	string	PoisonErrorC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mio-1.2.2\src\sys\windows\iocp.rs
+180266480	string	Handle
+1802664a8	string	Mutex
+1802664d0	string	data<locked>
+180266510	string	poisonedC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mio-1.2.2\src\sys\windows\selector.rs
+180266618	string	assertion failed: !self.is_polling.swap(true, Ordering::AcqRel)
+180266760	string	called `Result::unwrap()` on an `Err` value
+180266810	string	AfdGroup
+180266818	string	cp
+18026681a	string	afd_groupC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mio-1.2.2\src\sys\windows\selector.rs
+1802668c8	string	called `Result::unwrap()` on an `Err` value
+1802668f3	string	Out of bounds accessC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\collections\vec_deque\mod.rs
+180266a60	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.5.8\src\lib.rs
+180266be0	string	called `Result::unwrap()` on an `Err` value
+180266c0b	string	assertion failed: self.is_char_boundary(new_len)EmptyHostIdnaErrorInvalidPortInvalidIpv4AddressInvalidIpv6AddressInvalidDomainCharacterRelativeUrlWithoutBaseRelativeUrlWithCannotBeABaseBaseSetHostOnCannotBeABaseUrlOverflow
+180266e30	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.5.8\src\parser.rs
+180267238	string	assertion failed: !self.serialization[scheme_end_as_usize..].starts_with("://")
+180267300	string	Programming error. parse_query_and_fragment() called without ? or #
+1802675d0	string	t have a host to setURLs more than 4 GB are not supported
+180267609	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.5.8\src\lib.rs
+180267c60	string	:C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.5.8\src\host.rs
+180267cda	string	a non-empty list of numbers
+180267de0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+180268064	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\vec\mod.rs
+1802680f0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+180268180	string	assertion failed: self.is_char_boundary(n)
+1802681aa	string	assertion failed: self.is_char_boundary(start)
+1802681d8	string	assertion failed: self.is_char_boundary(end)
+180281b18	string	Layout
+180281b1e	string	size
+180281b22	string	align
+180281b60	string	Punycode overflows should not be possible due to PUNYCODE_ENCODE_MAX_INPUT_LENGTH
+180281bf5	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\uts46.rs
+180281e18	string	mid > lenC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\slice\sort\stable\quicksort.rs
+180281ed8	string	assertion failed: code_point < self.header.high_start && self.header.high_start > SMALL_LIMITC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_collections-2.3.0\src\codepointtrie\cptrie.rs
+180282030	string	called `Result::unwrap()` on an `Err` value
+18028205b	string	CapacityOverflow
+180282090	string	AllocErr
+180282098	string	layout
+18028209e	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\smallvec-1.15.2\src\lib.rs
+180282118	string	capacity overflow
+180282160	string	assertion failed: end <= len
+180282198	string	assertion failed: index < len
+180282208	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\lib.rs
+1802822b0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\punycode.rs
+180282340	string	explicit panic
+180282380	string	assertion failed: code_point < self.header.high_start && self.header.high_start > SMALL_LIMITC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_collections-2.3.0\src\codepointtrie\cptrie.rs
+180282492	string	mid > lenC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\slice\sort\stable\quicksort.rs
+180282754	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\percent-encoding-2.3.2\src\lib.rs
+180282ad8	string	mid > len
+180282d98	string	http::Error
+180283110	string	OPTIONS
+180283117	string	GET
+18028311a	string	POST
+18028311e	string	PUT
+180283121	string	DELETE
+180283127	string	HEAD
+18028312b	string	TRACE
+180283130	string	CONNECT
+180283137	string	PATCH
+18028313c	string	QUERY
+180283168	string	InvalidUri
+180283198	string	InvalidUriParts
+1802831a7	string	InvalidMethod
+1802831b4	string	invalid HTTP method
+1802831c7	string	/
+1802831c8	string	MaxSizeReached
+1802831d6	string	max size reached
+1802832b0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\uri\mod.rs
+180283328	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\uri\path.rs
+1802833b8	string	http
+1802833bc	string	https
+1802833c1	string	://
+1802833c4	string	?InvalidUriCharInvalidSchemeInvalidAuthorityInvalidPortInvalidFormatSchemeMissingAuthorityMissingPathAndQueryMissingPathDoesNotStartWithSlashTooLongEmptySchemeTooLong
+180283794	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\uri\authority.rs
+180283837	string	?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[
+180283859	string	abcdefghijklmnopqrstuvwxyz
+1802839c8	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+180283c48	string	internal error: entered unreachable code
+180283c70	string	
+180283cb1	string	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+180283cd1	string	abcdefghijklmnopqrstuvwxyz
+180283d70	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\uri\scheme.rs
+180283e12	string	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+180283e2f	string	^_`abcdefghijklmnopqrstuvwxyz
+180283ed1	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\method.rs
+180283f60	string	Continue
+180283f68	string	Switching Protocols
+180283f7b	string	Processing
+180283f85	string	Early Hints
+180283f90	string	OK
+180283f92	string	Created
+180283f99	string	Accepted
+180283fa1	string	Non Authoritative Information
+180283fbe	string	No Content
+180283fc8	string	Reset Content
+180283fd5	string	Partial Content
+180283fe4	string	Multi-Status
+180283ff0	string	Already Reported
+180284000	string	IM Used
+180284007	string	Multiple Choices
+180284017	string	Moved Permanently
+180284028	string	Found
+18028402d	string	See Other
+180284036	string	Not Modified
+180284042	string	Use Proxy
+18028404b	string	Temporary Redirect
+18028405d	string	Permanent Redirect
+18028406f	string	Bad Request
+18028407a	string	Unauthorized
+180284086	string	Payment Required
+180284096	string	Forbidden
+18028409f	string	Not Found
+1802840a8	string	Method Not Allowed
+1802840ba	string	Not Acceptable
+1802840c8	string	Proxy Authentication Required
+1802840e5	string	Request Timeout
+1802840f4	string	Conflict
+1802840fc	string	Gone
+180284100	string	Length Required
+18028410f	string	Precondition Failed
+180284122	string	Payload Too Large
+180284133	string	URI Too Long
+18028413f	string	Unsupported Media Type
+180284155	string	Range Not Satisfiable
+18028416a	string	Expectation Failed
+18028417c	string	I'm a teapot
+180284188	string	Misdirected Request
+18028419b	string	Unprocessable Entity
+1802841af	string	Locked
+1802841b5	string	Failed Dependency
+1802841c6	string	Too Early
+1802841cf	string	Upgrade Required
+1802841df	string	Precondition Required
+1802841f4	string	Too Many Requests
+180284205	string	Request Header Fields Too Large
+180284224	string	Unavailable For Legal Reasons
+180284241	string	Internal Server Error
+180284256	string	Not Implemented
+180284265	string	Bad Gateway
+180284270	string	Service Unavailable
+180284283	string	Gateway Timeout
+180284292	string	HTTP Version Not Supported
+1802842ac	string	Variant Also Negotiates
+1802842c3	string	Insufficient Storage
+1802842d7	string	Loop Detected
+1802842e4	string	Not Extended
+1802842f0	string	Network Authentication Required
+180284338	string	/
+180284339	string	HTTP/0.9
+180284341	string	HTTP/1.0
+180284349	string	HTTP/1.1
+180284351	string	HTTP/2.0
+180284359	string	HTTP/3.0C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\version.rs
+180284b1d	string	abcdefghijklmnopqrstuvwxyz
+180284b3a	string	^_`abcdefghijklmnopqrstuvwxyz
+180284c3a	string	^_`abcdefghijklmnopqrstuvwxyz
+180285175	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+1802851f0	string	InvalidHeaderName
+180285201	string	invalid HTTP header name
+18028586a	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+1802858e0	string	"C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-1.5.0\src\header\value.rs
+180285980	string	Sensitive
+180285989	string	InvalidHeaderValue
+18028599b	string	failed to parse header value
+1802859b7	string	overflowC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes_mut.rs
+180285b48	string	called `Result::unwrap()` on an `Err` value
+180285ba0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\bytes.rs
+180285d44	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bytes-1.12.1\src\lib.rs
+180285ec0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.34\src\task\__internal\atomic_waker.rs
+180285f60	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\imp_std.rs
+1802862d0	string	failed to write whole buffer
+180286308	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+1802863b0	string	called `Result::unwrap()` on an `Err` value
+1802863db	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memchr-2.8.3\src\arch\all\packedpair\mod.rs
+180286498	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memchr-2.8.3\src\arch\generic\packedpair.rs
+180286538	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memchr-2.8.3\src\memmem\searcher.rs
+1802865d8	string	TryFromIntError
+1802865f8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sysinfo-0.33.1\src\windows\cpu.rs
+180286800	string	PoisonError
+18028680b	string	mid > len
+180286814	string	assertion failed: vec.capacity() - start >= len
+180286843	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-1.12.0\src\vec.rs
+1802868d8	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-epoch-0.9.20\src\internal.rs
+180286990	string	a formatting trait implementation returned an error when the underlying stream did notC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+180286a70	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\vec\mod.rs
+180286b23	string	B
+180286b24	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sysinfo-0.33.1\src\windows\process.rs
+180286bc0	string	ReadProcessMemory returned unexpected number of bytes read
+180286bfa	string	Unable to read process data
+180286c15	string	global_key_idle disappeared
+180286c30	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sysinfo-0.33.1\src\windows\system.rs
+180286cb8	string	key_used disappeared
+180286d13	string	\r)\% Idle Time
+180286d9d	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sync\once.rs
+180286e68	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sysinfo-0.33.1\src\windows\sid.rs
+180286ee9	string	Expected SID revision to be 1
+180286f20	string	fatal runtime error: thread local panicked on drop, aborting\n
+180286f5d	string	internal error: entered unreachable codeC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\job.rs
+180287018	string	assertion failed: injected && !worker_thread.is_null()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\registry.rs
+1802870e8	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sys\thread_local\native\lazy.rs
+180287188	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\thread\local.rs
+180287238	string	called `Result::unwrap()` on an `Err` value
+180287263	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\latch.rs
+180287330	string	RAYON_NUM_THREADS
+180287341	string	RAYON_RS_NUM_CPUS
+180287352	string	GlobalPoolAlreadyInitialized
+18028736e	string	CurrentThreadAlreadyInPool
+180287388	string	
+1802873a8	string	IOError
+1802878cc	string	fatal runtime error: thread local panicked on drop, aborting\n
+180287909	string	assertion failed: t.get().is_null()C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\registry.rs
+1802879e0	string	a formatting trait implementation returned an error when the underlying stream did notC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+180287ac0	string	internal error: entered unreachable codeC:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sys\thread_local\native\lazy.rs
+180287b88	string	Rayon: detected unexpected panic; aborting\n
+180287bb3	string	assertion failed: t.get().eq(&(self as *const _))
+180287c00	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\sleep\mod.rs
+180287ce0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\registry.rs
+180287d60	string	failed to write whole buffer
+180287d98	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\io\mod.rs
+180287e40	string	called `Result::unwrap()` on an `Err` value
+180287e7c	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\registry.rs
+180287fd0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sync\once.rs
+1802880a0	string	called `Result::unwrap()` on an `Err` value
+1802880f0	string	ThreadPoolBuildError
+180288104	string	kindC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\latch.rs
+180288188	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\latch.rs
+180288240	string	called `Result::unwrap()` on an `Err` value
+18028826b	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rayon-core-1.13.0\src\registry.rs
+1802882f0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-deque-0.8.7\src\deque.rs
+180288370	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-epoch-0.9.20\src\internal.rs
+1802883f8	string	PoisonError
+180288428	string	RUST_MIN_STACKfatal runtime error: thread result panicked on drop, aborting\nC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-epoch-0.9.20\src\sync\once_lock.rs
+180288508	string	unaligned pointer
+180288519	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-epoch-0.9.20\src\atomic.rs
+1802885a0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-epoch-0.9.20\src\internal.rs
+180288670	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\std\src\sync\once.rs
+180288720	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-epoch-0.9.20\src\sync\list.rs
+1802887b0	string	internal error: entered unreachable code: unsupported window handle, expected: WindowsC:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rfd-0.15.4\src\backend\win_cid\message_dialog.rs
+1802888f8	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\collections\btree\navigate.rs
+1802889c0	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\itoa-1.0.18\src\lib.rs
+180288a58	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_json-1.0.151\src\value\index.rs
+180288b28	string	boolean
+180288b2f	string	number
+180288b35	string	string
+180288b3b	string	array
+180288b40	string	object
+180288b60	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_json-1.0.151\src\read.rs
+1802891c0	string	  }falsetruenull{
+1802891d1	string	fmt error\n
+180289bd0	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\collections\btree\map\entry.rs
+180289c70	string	C:\Users\burne\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\alloc\src\collections\btree\node.rs
+180289cf1	string	assertion failed: edge.height == self.height - 1
+180289dc8	string	assertion failed: edge.height == self.node.height - 1
+180289e18	string	uuuuuuuubtnufruuuuuuuuuuuuuuuuuu
+180289f18	string	0123456789abcdef
+180289f28	string	}
+180289f29	string	"
+180289f2a	string	false
+180289f2f	string	true
+180289f33	string	null
+180289f37	string	[
+180289f38	string	{
+180289f39	string	,
+180289f3a	string	:
+180289f3b	string	]
+180289f3c	string	\n
+180289f3d	string	,\n
+180289f3f	string	: 
+180289f84	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memchr-2.8.3\src\arch\all\twoway.rs
+18028a145	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memchr-2.8.3\src\arch\generic\packedpair.rs
+18028a2e8	string	mid > len
+18028a2f1	string	C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memchr-2.8.3\src\arch\all\twoway.rs
+18028a3d0	string	UUUUUUUUUUUUUUUU
+18028a3e0	string	3333333333333333C:\Users\burne\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\itoa-1.0.18\src\lib.rs
+18028a468	string	00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+18028e8a8	string	, aborting\n
+18028e8b4	string	fatal runtime error: Rust panics must be rethrown, aborting\n
+18028e8f0	string	fatal runtime error: Rust cannot catch foreign exceptions, aborting\n
+18028e934	string	fatal runtime error: thread local panicked on drop, aborting\n
+18028e971	string	thread name may not contain interior null bytes
+18028e9a0	string	library\std\src\thread\thread.rs
+18028ea10	string	library\std\src\sys_common\mod.rs
+18028eaab	string	/rustc/01f6ddf7588f42ae2d7eb0a2f21d44e8e96674cf\library\alloc\src\vec\mod.rs
+18028eaf8	string	library\std\src\..\..\backtrace\src\dbghelp.rs
+18028eb27	string	assertion failed: len >= 0
+18028eb78	string	Local\RustBacktr
+18028eb88	string	aceMutex00000000
+18028ebb8	string	dbghelp.dll
+18028ebc4	string	SymGetOptions
+18028ebd2	string	SymSetOptions
+18028ebe0	string	SymInitializeW
+18028ebef	string	SymGetSearchPathW
+18028ec01	string	SymSetSearchPathW
+18028ec13	string	SymQueryInlineTrace
+18028ec27	string	SymFromInlineContextW
+18028ec3d	string	EnumerateLoadedModulesW64
+18028ec57	string	SymAddrIncludeInlineTrace
+18028ec71	string	SymGetLineFromInlineContextW
+18028ec91	string	library\std\src\..\..\backtrace\src\symbolize\mod.rs
+18028ed08	string	failed to create whole tree
+18028ed40	string	library\std\src\io\mod.rs
+18028ed5a	string	stream did not contain valid UTF-8
+18028edc8	string	a formatting trait implementation returned an error when the underlying stream did not
+18028ef10	string	failed to write whole buffer
+18028ef60	string	internal error: entered unreachable code
+18028ef88	string	Os
+18028f000	string	message
+18028f007	string	Kind
+18028f00b	string	Error
+18028f010	string	
+18028f050	string	Custom
+18028f056	string	error
+18028f05b	string	entity not found
+18028f06b	string	permission denied
+18028f07c	string	connection refused
+18028f08e	string	connection reset
+18028f09e	string	host unreachable
+18028f0ae	string	network unreachable
+18028f0c1	string	connection aborted
+18028f0d3	string	not connected
+18028f0e0	string	address in use
+18028f0ee	string	address not available
+18028f103	string	network down
+18028f10f	string	broken pipe
+18028f11a	string	entity already exists
+18028f12f	string	operation would block
+18028f144	string	not a directory
+18028f153	string	is a directory
+18028f161	string	directory not empty
+18028f174	string	read-only filesystem or storage medium
+18028f19a	string	filesystem loop or indirection limit (e.g. symlink loop)
+18028f1d2	string	stale network file handle
+18028f1eb	string	invalid input parameter
+18028f202	string	invalid data
+18028f20e	string	timed out
+18028f217	string	write zero
+18028f221	string	no storage space
+18028f231	string	seek on unseekable file
+18028f248	string	quota exceeded
+18028f256	string	file too large
+18028f264	string	resource busy
+18028f271	string	executable file busy
+18028f285	string	deadlock
+18028f28d	string	cross-device link or rename
+18028f2a8	string	too many links
+18028f2b6	string	invalid filename
+18028f2c6	string	argument list too long
+18028f2dc	string	operation interrupted
+18028f2f1	string	unsupported
+18028f2fc	string	unexpected end of file
+18028f312	string	out of memory
+18028f31f	string	in progress
+18028f32a	string	other error
+18028f335	string	uncategorized errorlibrary\std\src\io\stdio.rs
+18028f3a8	string	library\std\src\sys\io\io_slice\windows.rs
+18028f3d3	string	advancing IoSlice beyond its length
+18028f410	string	advancing io slices beyond their length
+18028f468	string	failed to write the buffered data
+18028f4a8	string	library\std\src\ffi\os_str.rs
+18028f4e0	string	library\std\src\sys\thread_local\destructors\list.rs
+18028f530	string	fatal runtime error: the System allocator may not use TLS with destructors, aborting\n
+18028f585	string	must specify at least one of read, write, or append access
+18028f5bf	string	creating or truncating a file requires write or append access
+18028f5fc	string	library\std\src\sys\fs\windows.rs
+18028f648	string	*
+18028f649	string	assertion failed: len >= size_of::<c::sockaddr_in>()
+18028f67d	string	library\std\src\sys\net\connection\socket\mod.rs
+18028f6c8	string	assertion failed: len >= size_of::<c::sockaddr_in6>()
+18028f740	string	file name contained an unexpected NUL byte
+18028f788	string	library\std\src\sys\pal\windows\mod.rs
+18028f7e0	string	SetThreadDescription
+18028f7f5	string	kernel32
+18028f818	unicode	NTDLL.DLL
+18028f82c	string	library\std\src\sys\pal\windows\os.rs
+18028f87b	string	+ (FormatMessageW() returned invalid UTF-16)
+18028f8f2	string	library\std\src\sys\pal\windows\time.rs
+18028f968	string	overflow when subtracting durations
+18028f98b	string	/rustc/01f6ddf7588f42ae2d7eb0a2f21d44e8e96674cf\library\core\src\time.rs
+18028f9f0	string	fatal runtime error: I/O error: operation failed to complete synchronously, aborting\nstrings passed to WinAPI cannot contain NULs
+18028fa94	string	library\std\src\sys\pal\windows\winsock.rs
+18028fad8	string	\
+18028fad9	string	library\std\src\sys\path\windows_prefix.rs
+18028fb50	string	Once instance has previously been poisoned
+18028fb7a	string	too many active read locks on RwLocklibrary\std\src\sys\sync\rwlock\futex.rs
+18028fbe0	string	assertion failed: is_unlocked(state)
+18028fc20	string	library\std\src\sys\stdio\windows.rs
+18028fd78	string	Windows stdio in console mode does not support writing non-UTF-8 byte sequences
+18028fde0	string	Unexpected number of bytes for incomplete UTF-8 codepoint.
+18028fe80	string	Unexpected error in MultiByteToWideChar
+18028fef0	string	the number of hardware threads is not known for the target platform
+18028ff50	string	library\std\src\sys\thread\windows.rs
+18028ffb0	string	stack backtrace:\n
+1802900ad	string	library\std\src\path.rs
+180290198	string	lock count overflow in reentrant mutexlibrary\std\src\sync\reentrant_lock.rs
+180290200	string	library\std\src\sync\once.rs
+180290290	string	 bytes failed\n
+180290355	string	G bytes failed\nskipping backtrace printing to avoid potential recursion\n
+1802903b5	string	\r bytes failed
+1802903c4	string	library\std\src\alloc.rs
+1802903f8	string	RUST_BACKTRACElibrary\std\src\thread\id.rs
+180290423	string	failed to generate unique thread ID: bitspace exhausted
+180290478	string	library\std\src\thread\local.rs
+1802904fb	string	too many running threads in thread scopelibrary\std\src\thread\scoped.rs
+180290560	string	main
+180290564	string	main
+180290569	string	use of std::thread::current() is not possible after the thread's local data has been destroyedlibrary\std\src\thread\current.rs
+180290608	string	fatal runtime error: init_current() was re-entrant, which indicates a bug in the Rust threading implementation, aborting\n
+180290681	string	fatal runtime error: current thread handle already set during thread spawn, aborting\n
+180290760	string	<unnamed>library\std\src\panicking.rs
+1802908e0	string	3\nthread panicked while processing panic. aborting.\n
+180290915	string	thread caused non-unwinding panic. aborting.\n()
+180290968	string	/rustc/01f6ddf7588f42ae2d7eb0a2f21d44e8e96674cf\library\core\src\str\pattern.rs
+180290a18	string	overflow in Duration::new
+180290a5e	string	 is out of bounds
+180290a7d	string	" lies between surrogate codepoints
+180290aaf	string	 is not a codepoint boundary
+180290acc	string	description() is deprecated; use Display
+180290b08	string	mid > len
+180290b78	string	called `Result::unwrap()` on an `Err` value
+180290c48	string	Instant
+180290c4f	string	tWouldBlock
+180290c78	string	assertion failed: self.is_code_point_boundary(new_len)/rustc/01f6ddf7588f42ae2d7eb0a2f21d44e8e96674cf\library\alloc\src\wtf8\mod.rs
+180290dd1	string	invalid port value
+180290e00	string	invalid socket address
+180290e60	string	NotFoundPermissionDeniedConnectionRefusedConnectionResetHostUnreachableNetworkUnreachableConnectionAbortedNotConnectedAddrInUseAddrNotAvailableNetworkDownBrokenPipeAlreadyExistsNotADirectoryIsADirectoryDirectoryNotEmptyReadOnlyFilesystemFilesystemLoopStaleNetworkFileHandleInvalidInputInvalidDataTimedOutWriteZeroStorageFullNotSeekableQuotaExceededFileTooLargeResourceBusyExecutableFileBusyDeadlockCrossesDevicesTooManyLinksInvalidFilenameArgumentListTooLongInterruptedUnsupportedUnexpectedEofOutOfMemoryInProgressOtherUncategorized
+1802910b8	string	NulError
+1802910c0	string	
+1802910e0	string	Utf8Error
+1802910e9	string	valid_up_to
+1802910f4	string	error_len
+1802910fd	string	File
+180291128	string	handle
+18029112e	string	path
+180291132	string	None
+180291136	string	Some
+180291278	string	fatal runtime error: thread result panicked on drop, aborting\n
+180291310	string	overflow when adding duration to instantlibrary\std\src\time.rs
+180291368	string	library\std\src\io\buffered\linewritershim.rs
+180292120	string	library\panic_unwind\src\seh.rs
+180292158	string	0
+180292159	string	/rust/deps\rustc-demangle-0.1.26\src\v0.rs
+18029225e	string	 chars were found
+180292340	string	[
+180292341	string	]
+180292342	string	{invalid syntax}
+180292352	string	{recursion limit reached}
+18029236b	string	?
+18029236c	string	::
+18029236e	string	::{
+180292371	string	closure
+180292378	string	shim
+18029237c	string	:
+18029237d	string	#
+18029237e	string	}
+18029237f	string	<
+180292380	string	 as 
+180292384	string	>
+180292385	string	, 
+180292387	string	&
+180292388	string	 
+180292389	string	mut 
+18029238d	string	*
+18029238e	string	const 
+180292394	string	; 
+180292396	string	(
+180292397	string	,
+180292398	string	)
+180292399	string	dyn 
+18029239d	string	 + 
+1802923a0	string	 is 
+1802923a4	string	C
+1802923a5	string	unsafe 
+1802923ac	string	extern "
+180292408	string	`fmt::Error`s should be impossible without a `fmt::Formatter`
+180292460	string	'
+180292461	string	for<
+180292465	string	> 
+180292467	string	..=
+18029246a	string	 | 
+18029246d	string	!null
+1802924f0	string	/rust/deps\rustc-demangle-0.1.26\src\legacy.rs
+180292580	string	.llvm./rust/deps\rustc-demangle-0.1.26\src\lib.rs
+180292608	string	/rustc/01f6ddf7588f42ae2d7eb0a2f21d44e8e96674cf\library\core\src\ops\function.rs
+180292678	string	/rustc/01f6ddf7588f42ae2d7eb0a2f21d44e8e96674cf\library\core\src\str\pattern.rs
+180292710	string	0123456789abcdef
+180292720	string	
+180292780	string	called `Result::unwrap()` on an `Err` value
+18029280e	string	{size limit reached}
+180292822	string	`fmt::Error` from `SizeLimitedFmtAdapter` was discarded
+180292878	string	punycode{EmptyInvalidDigitPosOverflowNegOverflowZero
+1802928d0	string	ParseIntError
+1802928dd	string	kindSizeLimitExhausted
+180292d94	string	Hash table capacity overflow/rust/deps\hashbrown-0.16.1\src\raw\mod.rs
+180292e98	string	a formatting trait implementation returned an error when the underlying stream did not
+180292eee	string	library\alloc\src\fmt.rs
+180292f20	string	library\alloc\src\vec\mod.rs
+180292fbb	string	library\alloc\src\sync.rs
+180292ff0	string	capacity overflowlibrary\alloc\src\raw_vec\mod.rs
+180293070	string	LayoutError
+1802934d1	string	library\core\src\char\methods.rs
+1802934f2	string	library\core\src\fmt\mod.rs
+180293601	string	9293949596979899library\core\src\fmt\num.rs
+180293648	string	+
+180293649	string	0123456789abcdef
+180293659	string	0x
+18029365b	string	0123456789ABCDEF
+18029366b	string	, 
+18029366d	string	\n
+18029366e	string	,\n
+180293670	string	(
+180293671	string	(\n
+180293673	string	..\n
+180293676	string	)
+180293677	string	,
+180293678	string	
+180293700	string	library\core\src\net\parser.rs
+18029393d	string	library\core\src\str\pattern.rs
+1802939d8	string	to_digit: invalid radix -- radix must be in the range 2 to 36 inclusive
+180293a38	string	library\core\src\wtf8.rs
+180293ac8	string	user-provided comparison function does not correctly implement a total orderlibrary\core\src\slice\sort\shared\smallsort.rs
+180293bf8	string	library\core\src\slice\memchr.rs
+180293ca8	string	called `Result::unwrap()` on an `Err` va
+180293cd0	string	lue
+18029430b	string	\r
+18029430c	string	library\core\src\unicode\printable.rs
+180294368	string	attempt to divide by zero
+180294381	string	attempt to calculate the remainder with a divisor of zero
+1802943ba	string	`async fn` resumed after completion
+1802943dd	string	`async fn` resumed after panicking
+180294420	string	library\core\src\panicking.rs
+180294570	string	library\core\src\time.rs
+1802945cc	string	Formatting argument out of range
+1802946a0	string	library\core\src\net\ip_addr.rs
+1802946d8	string	library\core\src\net\display_buffer.rs
+180294799	string	cannot parse integer from empty stringinvalid digit found in stringnumber too large to fit in target typenumber too small to fit in target typenumber would be zero for non-zero type
+1802948b5	string	library\core\src\net\socket_addr.rs
+180294968	string	data provided is not nul terminated
+18029498b	string	
+180294efc	string	.text$unlikely
+180295024	string	.rdata
+18029505c	string	.rdata$voltmd
+180295120	string	.edata
+180295180	string	.data
+1802951b4	string	.pdata
+1802f8c1a	TerminatedCString	wearedevs_exploit_api.dll
+1802f8c34	TerminatedCString	DllMain
+1802f8c3c	TerminatedCString	attach
+1802f8c43	TerminatedCString	execute
+1802f8c4b	TerminatedCString	initialize
+1802f8c56	TerminatedCString	isAttached
+1802f958a	TerminatedCString	CloseHandle
+1802f9598	TerminatedCString	RegCreateKeyTransactedW
+1802f95b2	TerminatedCString	RegCreateKeyExW
+1802f95c4	TerminatedCString	RegOpenKeyTransactedW
+1802f95dc	TerminatedCString	RegOpenKeyExW
+1802f95ec	TerminatedCString	RegQueryValueExW
+1802f95fe	TerminatedCString	kernel32.dll
+1802f960e	TerminatedCString	GetProcessHeap
+1802f9620	TerminatedCString	HeapAlloc
+1802f962c	TerminatedCString	HeapFree
+1802f9638	TerminatedCString	RegCloseKey
+1802f9644	TerminatedCString	advapi32.dll
+1802f9652	TerminatedCString	oleaut32.dll
+1802f9662	TerminatedCString	GetLastError
+1802f9672	TerminatedCString	GetErrorInfo
+1802f9682	TerminatedCString	FormatMessageW
+1802f9694	TerminatedCString	LoadLibraryExW
+1802f96a6	TerminatedCString	GetProcAddress
+1802f96b8	TerminatedCString	SetThreadErrorMode
+1802f96ce	TerminatedCString	FreeLibrary
+1802f96dc	TerminatedCString	FindWindowA
+1802f96ea	TerminatedCString	IsWindowVisible
+1802f96fc	TerminatedCString	LocalFree
+1802f9708	TerminatedCString	SetHandleInformation
+1802f9720	TerminatedCString	RtlNtStatusToDosError
+1802f9736	TerminatedCString	user32.dll
+1802f9742	TerminatedCString	ntdll.dll
+1802f974e	TerminatedCString	WakeByAddressSingle
+1802f9764	TerminatedCString	closesocket
+1802f9772	TerminatedCString	ApplyControlToken
+1802f9786	TerminatedCString	CreateFileW
+1802f9794	TerminatedCString	SetNamedPipeHandleState
+1802f97ae	TerminatedCString	DecryptMessage
+1802f97c0	TerminatedCString	EncryptMessage
+1802f97d2	TerminatedCString	AcceptSecurityContext
+1802f97ea	TerminatedCString	InitializeSecurityContextW
+1802f9808	TerminatedCString	FreeContextBuffer
+1802f981c	TerminatedCString	CertGetCertificateChain
+1802f9836	TerminatedCString	CertVerifyCertificateChainPolicy
+1802f985a	TerminatedCString	CertDuplicateCertificateContext
+1802f987c	TerminatedCString	CertFreeCertificateContext
+1802f989a	TerminatedCString	CertDuplicateStore
+1802f98b0	TerminatedCString	CertCloseStore
+1802f98c2	TerminatedCString	DeleteSecurityContext
+1802f98da	TerminatedCString	CertEnumCertificatesInStore
+1802f98f8	TerminatedCString	CertOpenStore
+1802f9908	TerminatedCString	CertAddCertificateContextToStore
+1802f992c	TerminatedCString	QueryContextAttributesW
+1802f9946	TerminatedCString	FreeCredentialsHandle
+1802f995e	TerminatedCString	GetModuleHandleW
+1802f9972	TerminatedCString	AcquireCredentialsHandleA
+1802f998e	TerminatedCString	CertDuplicateCertificateChain
+1802f99ae	TerminatedCString	CertFreeCertificateChain
+1802f99ca	TerminatedCString	getpeername
+1802f99d8	TerminatedCString	getsockopt
+1802f99e6	TerminatedCString	getsockname
+1802f99f4	TerminatedCString	recv
+1802f99fc	TerminatedCString	WSASend
+1802f9a06	TerminatedCString	send
+1802f9a0e	TerminatedCString	setsockopt
+1802f9a1c	TerminatedCString	ioctlsocket
+1802f9a2a	TerminatedCString	connect
+1802f9a34	TerminatedCString	WSAIoctl
+1802f9a40	TerminatedCString	WSASocketW
+1802f9a4e	TerminatedCString	bind
+1802f9a56	TerminatedCString	shutdown
+1802f9a62	TerminatedCString	NtCreateFile
+1802f9a72	TerminatedCString	CreateIoCompletionPort
+1802f9a8c	TerminatedCString	SetFileCompletionNotificationModes
+1802f9ab2	TerminatedCString	NtDeviceIoControlFile
+1802f9aca	TerminatedCString	NtCancelIoFileEx
+1802f9ade	TerminatedCString	GetOverlappedResult
+1802f9af4	TerminatedCString	PostQueuedCompletionStatus
+1802f9b12	TerminatedCString	ReadFile
+1802f9b1e	TerminatedCString	WriteFile
+1802f9b2a	TerminatedCString	CancelIoEx
+1802f9b38	TerminatedCString	GetQueuedCompletionStatusEx
+1802f9b56	TerminatedCString	WSAGetLastError
+1802f9b68	TerminatedCString	GetProcessTimes
+1802f9b7a	TerminatedCString	GetSystemInfo
+1802f9b8a	TerminatedCString	GetCurrentProcessId
+1802f9ba0	TerminatedCString	GlobalMemoryStatusEx
+1802f9bb8	TerminatedCString	VirtualQueryEx
+1802f9bca	TerminatedCString	OpenProcess
+1802f9bd8	TerminatedCString	GetSystemTimes
+1802f9bea	TerminatedCString	GetProcessIoCounters
+1802f9c02	TerminatedCString	OpenProcessToken
+1802f9c16	TerminatedCString	GetTokenInformation
+1802f9c2c	TerminatedCString	CommandLineToArgvW
+1802f9c42	TerminatedCString	IsValidSid
+1802f9c50	TerminatedCString	GetLengthSid
+1802f9c60	TerminatedCString	CopySid
+1802f9c6a	TerminatedCString	WaitForSingleObject
+1802f9c80	TerminatedCString	CoTaskMemFree
+1802f9c90	TerminatedCString	SHGetKnownFolderPath
+1802f9ca8	TerminatedCString	lstrlenW
+1802f9cb2	TerminatedCString	api-ms-win-core-synch-l1-2-0.dll
+1802f9cd4	TerminatedCString	ws2_32.dll
+1802f9ce0	TerminatedCString	secur32.dll
+1802f9cec	TerminatedCString	crypt32.dll
+1802f9cf8	TerminatedCString	shell32.dll
+1802f9d04	TerminatedCString	combase.dll
+1802f9d12	TerminatedCString	WaitOnAddress
+1802f9d22	TerminatedCString	WakeByAddressAll
+1802f9d36	TerminatedCString	ProcessPrng
+1802f9d42	TerminatedCString	bcryptprimitives.dll
+1802f9d5a	TerminatedCString	NtQueryInformationProcess
+1802f9d76	TerminatedCString	NtQuerySystemInformation
+1802f9d92	TerminatedCString	RtlGetVersion
+1802f9da2	TerminatedCString	NtReadFile
+1802f9db0	TerminatedCString	NtWriteFile
+1802f9dbe	TerminatedCString	RtlCaptureContext
+1802f9dd2	TerminatedCString	RtlLookupFunctionEntry
+1802f9dec	TerminatedCString	RtlVirtualUnwind
+1802f9e00	TerminatedCString	K32GetPerformanceInfo
+1802f9e18	TerminatedCString	ReadProcessMemory
+1802f9e2c	TerminatedCString	HeapReAlloc
+1802f9e3a	TerminatedCString	GetCurrentProcess
+1802f9e4e	TerminatedCString	WideCharToMultiByte
+1802f9e64	TerminatedCString	WaitForSingleObjectEx
+1802f9e7c	TerminatedCString	LoadLibraryA
+1802f9e8c	TerminatedCString	CreateMutexA
+1802f9e9c	TerminatedCString	ReleaseMutex
+1802f9eac	TerminatedCString	SetFileInformationByHandle
+1802f9eca	TerminatedCString	SetThreadStackGuarantee
+1802f9ee4	TerminatedCString	GetCurrentThread
+1802f9ef8	TerminatedCString	SetLastError
+1802f9f08	TerminatedCString	GetCurrentDirectoryW
+1802f9f20	TerminatedCString	GetEnvironmentVariableW
+1802f9f3a	TerminatedCString	MoveFileExW
+1802f9f48	TerminatedCString	CreateDirectoryW
+1802f9f5c	TerminatedCString	GetFileInformationByHandleEx
+1802f9f7c	TerminatedCString	SwitchToThread
+1802f9f8e	TerminatedCString	GetFileInformationByHandle
+1802f9fac	TerminatedCString	DeleteFileW
+1802f9fba	TerminatedCString	GetFinalPathNameByHandleW
+1802f9fd6	TerminatedCString	FindFirstFileExW
+1802f9fea	TerminatedCString	FindClose
+1802f9ff6	TerminatedCString	GetConsoleMode
+1802fa008	TerminatedCString	GetFullPathNameW
+1802fa01c	TerminatedCString	GetModuleHandleA
+1802fa030	TerminatedCString	SetCurrentDirectoryW
+1802fa048	TerminatedCString	QueryPerformanceFrequency
+1802fa064	TerminatedCString	MultiByteToWideChar
+1802fa07a	TerminatedCString	WriteConsoleW
+1802fa08a	TerminatedCString	GetStdHandle
+1802fa09a	TerminatedCString	GetConsoleOutputCP
+1802fa0b0	TerminatedCString	CreateThread
+1802fa0c0	TerminatedCString	GetSystemTimePreciseAsFileTime
+1802fa0e2	TerminatedCString	QueryPerformanceCounter
+1802fa0fc	TerminatedCString	GetCurrentThreadId
+1802fa112	TerminatedCString	FindNextFileW
+1802fa120	TerminatedCString	KERNEL32.dll
+1802fa130	TerminatedCString	PdhRemoveCounter
+1802fa144	TerminatedCString	PdhCloseQuery
+1802fa154	TerminatedCString	PdhOpenQueryA
+1802fa164	TerminatedCString	CallNtPowerInformation
+1802fa17e	TerminatedCString	PdhGetFormattedCounterValue
+1802fa19c	TerminatedCString	PdhAddEnglishCounterW
+1802fa1b4	TerminatedCString	PdhEnumObjectsA
+1802fa1c6	TerminatedCString	PdhCollectQueryData
+1802fa1dc	TerminatedCString	GetModuleFileNameExW
+1802fa1f4	TerminatedCString	MessageBoxW
+1802fa202	TerminatedCString	getaddrinfo
+1802fa210	TerminatedCString	freeaddrinfo
+1802fa220	TerminatedCString	WSAStartup
+1802fa22e	TerminatedCString	WSACleanup
+1802fa23a	TerminatedCString	pdh.dll
+1802fa242	TerminatedCString	powrprof.dll
+1802fa250	TerminatedCString	psapi.dll
+1802fa25c	TerminatedCString	memcpy
+1802fa266	TerminatedCString	memcmp
+1802fa270	TerminatedCString	__CxxFrameHandler3
+1802fa286	TerminatedCString	memmove
+1802fa290	TerminatedCString	memset
+1802fa29a	TerminatedCString	_CxxThrowException
+1802fa2b0	TerminatedCString	__C_specific_handler
+1802fa2c8	TerminatedCString	__std_type_info_destroy_list
+1802fa2e6	TerminatedCString	VCRUNTIME140.dll
+1802fa2fa	TerminatedCString	strlen
+1802fa304	TerminatedCString	wcslen
+1802fa30e	TerminatedCString	pow
+1802fa314	TerminatedCString	free
+1802fa31c	TerminatedCString	_initterm
+1802fa328	TerminatedCString	_initterm_e
+1802fa336	TerminatedCString	_seh_filter_dll
+1802fa348	TerminatedCString	_configure_narrow_argv
+1802fa362	TerminatedCString	_initialize_narrow_environment
+1802fa384	TerminatedCString	_initialize_onexit_table
+1802fa3a0	TerminatedCString	_execute_onexit_table
+1802fa3b8	TerminatedCString	_cexit
+1802fa3c0	TerminatedCString	api-ms-win-crt-string-l1-1-0.dll
+1802fa3e2	TerminatedCString	api-ms-win-crt-math-l1-1-0.dll
+1802fa402	TerminatedCString	api-ms-win-crt-heap-l1-1-0.dll
+1802fa422	TerminatedCString	api-ms-win-crt-runtime-l1-1-0.dll
+1802fa446	TerminatedCString	GetSystemTimeAsFileTime
+1802fa460	TerminatedCString	InitializeSListHead
+1802fb030	char[16]	rust_panic
+1802fd638	char[16]	rust_panic
+1802fd708	char[16]	.?AVtype_info@@
+ff000002d0	uchar[24]	
+ff000002ee	uchar[2]	
+ff00001268	wchar16[261]	
