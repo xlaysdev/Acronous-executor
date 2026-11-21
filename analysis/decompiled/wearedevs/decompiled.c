@@ -211114,11 +211114,11 @@ LAB_180120e31:
     _Src = &DAT_180241848;
     break;
   case 1:
-    _Src = &UNK_18024184f;
+    _Src = &DAT_18024184f;
     _Size = (undefined *)0x3;
     break;
   case 2:
-    _Src = &UNK_180241852;
+    _Src = &DAT_180241852;
     _Size = (undefined *)0x4;
     break;
   case 3:
@@ -211134,7 +211134,7 @@ LAB_180120e31:
     _Size = (undefined *)0x4;
     break;
   case 6:
-    _Src = &UNK_180241863;
+    _Src = &DAT_180241863;
     goto LAB_180121053;
   case 7:
     _Src = &DAT_180241868;
@@ -211394,11 +211394,11 @@ LAB_1801212f3:
 
 
 /* ====================================================== */
-/* caseD_7 @ 180120ff9 */
+/* caseD_3 @ 180120ff9 */
 
 /* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
 
-void switchD_18011eb1e::caseD_7(void)
+void switchD_180120fb1::caseD_3(void)
 
 {
   char cVar1;
