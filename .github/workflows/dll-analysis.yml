@@ -3,14 +3,17 @@ name: DLL static analysis
 on:
   push:
     paths:
+      - "*.dll"
       - "analysis/input/**/*.dll"
       - "analysis/input/*.dll"
+      - ".github/workflows/dll-analysis.yml"
+      - "scripts/ExportDecompiled.java"
   workflow_dispatch:
     inputs:
       dll_path:
         description: "Repository path to the DLL"
         required: true
-        default: "analysis/input/wearedevs_exploit_api.dll"
+        default: "wearedevs.dll"
 
 permissions:
   contents: read
@@ -36,12 +39,32 @@ jobs:
           if [ "${GITHUB_EVENT_NAME}" = "workflow_dispatch" ]; then
             DLL="$REQUESTED_DLL"
           else
-            DLL="$(find analysis/input -type f -iname '*.dll' -print -quit 2>/dev/null || true)"
+            DLL=""
+            for candidate in wearedevs.dll analysis/input/wearedevs_exploit_api.dll; do
+              if [ -f "$candidate" ]; then
+                DLL="$candidate"
+                break
+              fi
+            done
+            if [ -z "$DLL" ]; then
+              DLL="$(find analysis/input -type f -iname '*.dll' -print -quit 2>/dev/null || true)"
+            fi
           fi
+
           if [ -z "$DLL" ] || [ ! -f "$DLL" ]; then
-            echo "No DLL found. Upload one under analysis/input/." >&2
+            echo "DLL not found: ${DLL:-<no candidate>}" >&2
+            echo "Place a DLL at repository root or under analysis/input/." >&2
             exit 1
           fi
+
+          case "$DLL" in
+            /*|*..*)
+              echo "DLL path must be a repository-relative path without '..'." >&2
+              exit 1
+              ;;
+          esac
+
+          echo "Selected DLL: $DLL"
           echo "dll=$DLL" >> "$GITHUB_OUTPUT"
           mkdir -p reports
 
