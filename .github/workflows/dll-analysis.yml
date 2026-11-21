@@ -16,7 +16,7 @@ on:
         default: "wearedevs.dll"
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: dll-analysis-${{ github.ref }}
@@ -29,6 +29,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Select input DLL
         id: input
@@ -64,9 +66,15 @@ jobs:
               ;;
           esac
 
+          NAME="$(basename "$DLL")"
+          NAME="${NAME%.*}"
+          NAME="$(printf '%s' "$NAME" | tr -cs '[:alnum:]_.-' '-')"
+          OUTPUT_DIR="analysis/decompiled/$NAME"
+
           echo "Selected DLL: $DLL"
           echo "dll=$DLL" >> "$GITHUB_OUTPUT"
-          mkdir -p reports
+          echo "output_dir=$OUTPUT_DIR" >> "$GITHUB_OUTPUT"
+          mkdir -p "$OUTPUT_DIR"
 
       - name: Set up Java for Ghidra
         uses: actions/setup-java@v4
@@ -88,15 +96,16 @@ jobs:
         shell: bash
         env:
           DLL_PATH: ${{ steps.input.outputs.dll }}
+          OUTPUT_DIR: ${{ steps.input.outputs.output_dir }}
         run: |
-          mkdir -p reports ghidra-project
+          mkdir -p "$OUTPUT_DIR" ghidra-project
           "$GHIDRA_HOME/support/analyzeHeadless" \
             "$GITHUB_WORKSPACE/ghidra-project" AcronousDLL \
             -import "$GITHUB_WORKSPACE/$DLL_PATH" \
             -analysisTimeoutPerFile 900 \
             -max-cpu 2 \
             -scriptPath "$GITHUB_WORKSPACE/scripts" \
-            -postScript ExportDecompiled.java "$GITHUB_WORKSPACE/reports"
+            -postScript ExportDecompiled.java "$GITHUB_WORKSPACE/$OUTPUT_DIR"
           {
             echo "Input: $DLL_PATH"
             echo "SHA-256:"
@@ -104,12 +113,38 @@ jobs:
             echo
             echo "File identification:"
             file "$DLL_PATH"
-          } > reports/input-info.txt
+          } > "$OUTPUT_DIR/input-info.txt"
+          cat > "$OUTPUT_DIR/README.md" <<'EOF'
+          # Decompiled output
+
+          Generated automatically by the Acronous Executor DLL static-analysis workflow using Ghidra.
+
+          - `decompiled.c` contains Ghidra-generated C-like pseudocode, not the original source code.
+          - `input-info.txt` records the input file path, SHA-256, and file identification.
+          - Names, types, and control flow are reverse-engineering interpretations and may be imperfect.
+
+          This output is for static inspection. It does not execute or modify the analyzed DLL.
+          EOF
 
       - name: Upload analysis report
         uses: actions/upload-artifact@v4
         with:
           name: acronous-dll-analysis
-          path: reports/
+          path: ${{ steps.input.outputs.output_dir }}/
           if-no-files-found: error
           retention-days: 14
+
+      - name: Commit decompiled output to repository
+        shell: bash
+        env:
+          OUTPUT_DIR: ${{ steps.input.outputs.output_dir }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$OUTPUT_DIR"
+          if git diff --cached --quiet; then
+            echo "No changes to decompiled output."
+            exit 0
+          fi
+          git commit -m "Add Ghidra decompilation output"
+          git push origin "HEAD:$GITHUB_REF_NAME"
