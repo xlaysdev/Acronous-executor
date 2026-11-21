@@ -4,6 +4,7 @@
 #include <lua.h>
 #include <lualib.h>
 
+#include <exception>
 #include <sstream>
 #include <string>
 
@@ -16,7 +17,7 @@ int capturePrint(lua_State* state) {
 
     for (int i = 1; i <= count; ++i) {
         if (i > 1)
-            *output << '\\t';
+            *output << '\t';
 
         size_t length = 0;
         const char* value = luaL_tolstring(state, i, &length);
@@ -25,7 +26,7 @@ int capturePrint(lua_State* state) {
         lua_pop(state, 1);
     }
 
-    *output << '\\n';
+    *output << '\n';
     return 0;
 }
 
