@@ -1,0 +1,6 @@
+Input: wearedevs.dll
+SHA-256:
+ce5cd77590d8813e1cc1063b4a51dc4388e09e88fffc857cbf50aab7226f3f3e  wearedevs.dll
+
+File identification:
+wearedevs.dll: PE32+ executable for MS Windows 6.00 (DLL), x86-64, 5 sections
