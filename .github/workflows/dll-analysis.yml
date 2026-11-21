@@ -5,8 +5,6 @@ on:
     paths:
       - "analysis/input/**/*.dll"
       - "analysis/input/*.dll"
-      - ".github/workflows/dll-analysis.yml"
-      - "scripts/ExportDecompiled.java"
   workflow_dispatch:
     inputs:
       dll_path:
