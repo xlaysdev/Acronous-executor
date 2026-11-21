@@ -8,6 +8,7 @@ on:
       - "analysis/input/*.dll"
       - ".github/workflows/dll-analysis.yml"
       - "scripts/ExportDecompiled.java"
+      - "scripts/ExportMetadata.java"
   workflow_dispatch:
     inputs:
       dll_path:
